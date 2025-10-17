@@ -1,0 +1,883 @@
+[  
+  {
+    "stallID": "A88",
+    "artistName": "Midnight Stitches",
+    "artistPicture": "assets/images/midnightstitches_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/midnight.stitches.nz/"
+  },
+
+  {
+    "stallID": "A49",
+    "artistName": "Newtz Art",
+    "artistPicture": "assets/images/newtz_logo.png",
+    "linkStore": "https://newtzart.carrd.co/",
+    "linkInsta": "https://www.instagram.com/newtz.art/"
+  },
+
+  {
+    "stallID": "A35",
+    "artistName": "maple & bro",
+    "artistPicture": "assets/images/maple_logo.png",
+    "linkStore": "https://maple.macydyet.com/",
+    "linkInsta": "https://instagram.com/maple.eey"
+  },
+
+  {
+    "stallID": "C26",
+    "artistName": "Pawa Haven",
+    "artistPicture": "assets/images/pawa_haven_logo.png",
+    "linkStore": "https://wugmjn-d9.myshopify.com/",
+    "linkInsta": "https://www.instagram.com/pawahaven"
+  },
+
+  {
+    "stallID": "C46",
+    "artistName": "Kish & Yesh",
+    "artistPicture": "",
+    "linkStore": "http://kishandyesh.carrd.co",
+    "linkInsta": ""
+  },
+
+  {
+    "stallID": "A53",
+    "artistName": "Yukei",
+    "artistPicture": "assets/images/yukei_logo.jpeg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/7yukei"
+  },
+
+  {
+    "stallID": "A75",
+    "artistName": "Haley Hylia",
+    "artistPicture": "",
+    "linkStore": "https://www.etsy.com/shop/byhaleyhylia",
+    "linkInsta": "https://www.instagram.com/byhaleyhylia"
+  },
+
+  {
+    "stallID": "B37",
+    "artistName": "lumixnite",
+    "artistPicture": "",
+    "linkStore": "https://lumixnite.bigcartel.com",
+    "linkInsta": "https://www.instagram.com/lumixnite/"
+  },
+
+  {
+    "stallID": "A137",
+    "artistName": "I Have a Stitch",
+    "artistPicture": "assets/images/ihaveastitch_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/ihaveastitch"
+  },
+
+  {
+    "stallID": "A46",
+    "artistName": "Rogue Creations NZ",
+    "artistPicture": "assets/images/rogue_creations_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/roguecreationsnz"
+  },
+
+  {
+    "stallID": "A73",
+    "artistName": "Bean Sprout NZ",
+    "artistPicture": "assets/images/bean_sprout_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/beansproutnz/"
+  },
+
+  {
+    "stallID": "A38",
+    "artistName": "Hilltop Eco Crafts",
+    "artistPicture": "assets/images/hilltop_logo.jpeg",
+    "linkStore": "https://hilltopecocrafts.bigcartel.com",
+    "linkInsta": "https://www.instagram.com/hilltopecocrafts"
+  },
+
+  {
+    "stallID": "C28",
+    "artistName": "Serapheir",
+    "artistPicture": "assets/images/serapheir_logo.png",
+    "linkStore": "https://serapheir.bigcartel.com/",
+    "linkInsta": "https://www.instagram.com/serapheir/"
+  },
+
+  {
+    "stallID": "A31a",
+    "artistName": "Gutter Goblin",
+    "artistPicture": "assets/images/gutter_goblin_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/_gutter_goblin_/"
+  },
+
+  {
+    "stallID": "A41",
+    "artistName": "Knitebrite",
+    "artistPicture": "",
+    "linkStore": "https://www.knitebrite.com",
+    "linkInsta": "https://www.instagram.com/knitebrite"
+  },
+
+  {
+    "stallID": "C75",
+    "artistName": "beebsbubs",
+    "artistPicture": "assets/images/beebsbubs_logosm.png",
+    "linkStore": "https://beebsbubs.bigcartel.com/",
+    "linkInsta": "https://www.instagram.com/beebsbubs/"
+  },
+
+  {
+    "stallID": "A68",
+    "artistName": "Laya Rose Art",
+    "artistPicture": "assets/images/laya_rose_logo.jpg",
+    "linkStore": "https://layaroseart.storenvy.com/",
+    "linkInsta": "https://www.instagram.com/layahimalaya/"
+  },
+
+  {
+    "stallID": "A27",
+    "artistName": "Sushi Cat Draws",
+    "artistPicture": "assets/images/sushi_cat_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/sushicatdraws/"
+  },
+
+  {
+    "stallID": "A4a",
+    "artistName": "systemofaclown",
+    "artistPicture": "assets/images/systemofaclown_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/systemofaclown.art"
+  },
+
+  {
+    "stallID": "C29",
+    "artistName": "ArticheDolls",
+    "artistPicture": "assets/images/artiche_dolls_logo.png",
+    "linkStore": "https://www.artichedolls.com",
+    "linkInsta": "https://www.instagram.com/artichedolls/"
+  },
+
+  {
+    "stallID": "A30a",
+    "artistName": "Primal Arc",
+    "artistPicture": "assets/images/primal_arc_logo.png",
+    "linkStore": "https://www.primalarc.com",
+    "linkInsta": "https://www.instagram.com/primalarc/"
+  },
+
+  {
+    "stallID": "A30b",
+    "artistName": "The Lime of Doom",
+    "artistPicture": "assets/images/lime_of_doom_logo.webp",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/thelimeofdoom/"
+  },
+
+  {
+    "stallID": "B33",
+    "artistName": "Ammybunny",
+    "artistPicture": "assets/images/ammybunny_logo.png",
+    "linkStore": "https://www.etsy.com/shop/ammybunny",
+    "linkInsta": "https://www.instagram.com/ammybunny8/"
+  },
+
+  {
+    "stallID": "C22a",
+    "artistName": "AxolShop",
+    "artistPicture": "assets/images/axolshop_logo.png",
+    "linkStore": "https://linktr.ee/axolshop",
+    "linkInsta": "https://www.instagram.com/lucy.artnstuff"
+  },
+
+  {
+    "stallID": "C22b",
+    "artistName": "Willow Wisp",
+    "artistPicture": "assets/images/willow_wisp_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/willowwwispp"
+  },
+
+  {
+    "stallID": "B3a",
+    "artistName": "Shay Likes Orange",
+    "artistPicture": "assets/images/shay_likes_orange_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/valdadraws/"
+  },
+
+  {
+    "stallID": "B3b",
+    "artistName": "Lachyloolaa",
+    "artistPicture": "assets/images/lachyloolaa_logo.jfif",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/lachyloolaa/"
+  },
+
+    {
+    "stallID": "B24",
+    "artistName": "awksbush",
+    "artistPicture": "assets/images/awksbush_logo.png",
+    "linkStore": "https://acggoods.com/store/awksbush",
+    "linkInsta": "https://www.instagram.com/awksbush"
+  },
+
+    {
+    "stallID": "B29",
+    "artistName": "miranditto",
+    "artistPicture": "assets/images/miranditto_logo.png",
+    "linkStore": "https://miranditto.carrd.co/",
+    "linkInsta": "https://www.instagram.com/mirandittoart"
+  },
+
+  {
+    "stallID": "A135a",
+    "artistName": "Lycanwolfie",
+    "artistPicture": "assets/images/lycanwolfie_logo.png",
+    "linkStore": "https://lycanwolfie.carrd.co/",
+    "linkInsta": "https://www.instagram.com/lycanwolfie"
+  },
+
+  {
+    "stallID": "A135b",
+    "artistName": "thimblewood",
+    "artistPicture": "",
+    "linkStore": "https://thimblewood.carrd.co/",
+    "linkInsta": ""
+  },
+
+  {
+    "stallID": "A37",
+    "artistName": "Charfish Starfish",
+    "artistPicture": "assets/images/charfish_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/charfishstarfish"
+  },
+
+  {
+    "stallID": "C49a",
+    "artistName": "Tempest's Corner",
+    "artistPicture": "assets/images/tempestcorner_logo.png",
+    "linkStore": "https://tempestscorner.com/",
+    "linkInsta": "https://www.instagram.com/tempestscorner"
+  },
+
+  {
+    "stallID": "C54",
+    "artistName": "Grave Digger Designs",
+    "artistPicture": "assets/images/gravedigger_logo.jpg",
+    "linkStore": "https://felt.co.nz/shop/gravedigger",
+    "linkInsta": "https://www.instagram.com/grave_digger_designs"
+  },
+
+  {
+    "stallID": "A62",
+    "artistName": "Darkling Ceramics",
+    "artistPicture": "assets/images/darklings_ceramics_logo.jpg",
+    "linkStore": "https://www.darklingceramics.com",
+    "linkInsta": "https://www.instagram.com/darklingceramics"
+  },
+
+  {
+    "stallID": "C40a",
+    "artistName": "SmolVos",
+    "artistPicture": "",
+    "linkStore": "https://smolvos.carrd.co/",
+    "linkInsta": "http://instagram.com/smolvos"
+  },
+
+  {
+    "stallID": "C40b",
+    "artistName": "Biqqin",
+    "artistPicture": "assets/images/biqqin_logo.jpeg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/biqq.in"
+  },
+
+  {
+    "stallID": "A112",
+    "artistName": "ecupcakes art",
+    "artistPicture": "assets/images/ecupcake_logo.png",
+    "linkStore": "https://ecupcakes.art",
+    "linkInsta": "https://www.instagram.com/ecupcakes"
+  },
+
+  {
+    "stallID": "A26",
+    "artistName": "Oasis Scents",
+    "artistPicture": "",
+    "linkStore": "https://www.oasisscents.co.nz",
+    "linkInsta": "https://www.instagram.com/oasisscents/"
+  },
+
+  {
+    "stallID": "A69a",
+    "artistName": "Assemble All Rats",
+    "artistPicture": "assets/images/assemble_rats_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/assembleallrats"
+  },
+
+  {
+    "stallID": "A106",
+    "artistName": "Chorvaqueen",
+    "artistPicture": "assets/images/chorvaqueen_logo.jpg",
+    "linkStore": "https://www.acggoods.com/store/chorvaqueen/176",
+    "linkInsta": "https://instagram.com/chorva.art"
+  },
+
+  {
+    "stallID": "C6a",
+    "artistName": "LainChoco Art",
+    "artistPicture": "assets/images/lainchoco_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/c_h_o_c_o_m_i_n_t/"
+  },
+
+  {
+    "stallID": "A121a",
+    "artistName": "Fae Moss Creations",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/fae_moss_creations/"
+  },
+
+  {
+    "stallID": "C6b",
+    "artistName": "nemo studio",
+    "artistPicture": "assets/images/nemo_logo.png",
+    "linkStore": "https://heathermayart.myshopify.com",
+    "linkInsta": "https://www.instagram.com/nemostudio"
+  },
+
+  {
+    "stallID": "A121b",
+    "artistName": "Sanna's Atelier",
+    "artistPicture": "assets/images/sannas_atelier_logo.png",
+    "linkStore": "https://sannasatelier.bigcartel.com/",
+    "linkInsta": "https://www.instagram.com/sannasatelier/"
+  },
+
+  {
+    "stallID": "C59",
+    "artistName": "9ryuq",
+    "artistPicture": "assets/images/9ryuq_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/9ryuq/"
+  },
+
+  {
+    "stallID": "C25",
+    "artistName": "Nymeris Art",
+    "artistPicture": "assets/images/nymeris_logo.png",
+    "linkStore": "https://nymerisart.com/",
+    "linkInsta": "https://www.instagram.com/nymeris_art/"
+  },
+
+  {
+    "stallID": "C41",
+    "artistName": "saintevie",
+    "artistPicture": "assets/images/saintevie_logo.jpeg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/saint.evie"
+  },
+
+  {
+    "stallID": "B27b",
+    "artistName": "Little_Skully",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/little_skully_"
+  },
+
+  {
+    "stallID": "C50a",
+    "artistName": "Jewelia Howard Art/glaciars",
+    "artistPicture": "assets/images/glaciars_logo.png",
+    "linkStore": "https://jewelia.co/",
+    "linkInsta": "https://instagram.com/glaciars"
+  },
+
+  {
+    "stallID": "A78",
+    "artistName": "Quartz n Courtz",
+    "artistPicture": "",
+    "linkStore": "http://quartzncourtz.co.nz",
+    "linkInsta": "https://www.instagram.com/quartzncourtz"
+  },
+
+  {
+    "stallID": "C32",
+    "artistName": "Ouroridae",
+    "artistPicture": "assets/images/ouroridae_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/ouroridae/"
+  },
+
+  {
+    "stallID": "A28",
+    "artistName": "Entnoot",
+    "artistPicture": "assets/images/entnoot_logo.jpg",
+    "linkStore": "http://entnoot.com",
+    "linkInsta": "https://www.instagram.com/entnoot"
+  },
+
+  {
+    "stallID": "C49b",
+    "artistName": "Sani's friend shack",
+    "artistPicture": "",
+    "linkStore": "http://sanisfriendshack.com",
+    "linkInsta": "https://www.instagram.com/sanisfriendshack"
+  },
+
+  {
+    "stallID": "A4b",
+    "artistName": "Cynically Creative",
+    "artistPicture": "assets/images/cynically_logo.webp",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/cynicallycreative"
+  },
+
+  {
+    "stallID": "C9",
+    "artistName": "ibubobubo",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/ibubobubo"
+  },
+
+  {
+    "stallID": "A54",
+    "artistName": "Thistle and Thorn",
+    "artistPicture": "assets/images/thistle_thorn_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/thistle.thornz"
+  },
+
+  {
+    "stallID": "B27a",
+    "artistName": "VickoSicko",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/vicko.is.sicko"
+  },
+
+  {
+    "stallID": "A31b",
+    "artistName": "Quill Café",
+    "artistPicture": "assets/images/quill_cafe_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/quillcafe"
+  },
+
+  {
+    "stallID": "C56a",
+    "artistName": "ButtercatRho",
+    "artistPicture": "assets/images/buttercatrho_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/buttercatrho/"
+  },
+
+  {
+    "stallID": "C56b",
+    "artistName": "_solastica",
+    "artistPicture": "assets/images/solastic_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/_solastica/"
+  },
+
+  {
+    "stallID": "B7",
+    "artistName": "XiaoKain",
+    "artistPicture": "assets/images/xiaokain_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/xiaokain"
+  },
+
+  {
+    "stallID": "B2a",
+    "artistName": "Kerrysrosecastle",
+    "artistPicture": "assets/images/kerrysrosecastle_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/kerrysrosecastle"
+  },
+
+  {
+    "stallID": "C45a",
+    "artistName": "Red-Draws",
+    "artistPicture": "",
+    "linkStore": "https://reddrawsart.bigcartel.com/",
+    "linkInsta": "https://www.instagram.com/redandyellowz/"
+  },
+
+  {
+    "stallID": "A40",
+    "artistName": "Atarial Art",
+    "artistPicture": "assets/images/atarial_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/atarialart/"
+  },
+
+  {
+    "stallID": "A17",
+    "artistName": "Twisted Treasure Jewellery",
+    "artistPicture": "assets/images/twisted_treasure_logo.png",
+    "linkStore": "https://www.twistedtreasurejewellery.com",
+    "linkInsta": "https://www.instagram.com/twisted_treasure"
+  },
+
+  {
+    "stallID": "A126",
+    "artistName": "Sketcherface",
+    "artistPicture": "",
+    "linkStore": "https://www.etsy.com/shop/sketcherfaceshoppe/",
+    "linkInsta": "https://www.instagram.com/sketcherface/"
+  },
+
+  {
+    "stallID": "A118",
+    "artistName": "Tinytales",
+    "artistPicture": "assets/images/tinytales_logo.png",
+    "linkStore": "https://claytinytales-shop.myshopify.com/",
+    "linkInsta": "https://www.instagram.com/claytinytales"
+  },
+
+  {
+    "stallID": "B16",
+    "artistName": "Midnight Run Comics",
+    "artistPicture": "assets/images/midnight_run_logo.jpg",
+    "linkStore": "https://www.midnightruncomics.com.au",
+    "linkInsta": "https://www.instagram.com/midnightrun_comics"
+  },
+
+  {
+    "stallID": "B6a",
+    "artistName": "Megaminka_",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/megaminka_"
+  },
+
+  {
+    "stallID": "B13a",
+    "artistName": "Urban Fantasy by Tee Ayer",
+    "artistPicture": "",
+    "linkStore": "https://teeayer.com/",
+    "linkInsta": "https://www.instagram.com/tee.ayer/"
+  },
+
+  {
+    "stallID": "B13b",
+    "artistName": "Janna Ruth",
+    "artistPicture": "assets/images/janna_ruth_logo.png",
+    "linkStore": "https://www.janna-ruth.com",
+    "linkInsta": "https://www.instagram.com/janna_ruth"
+  },
+
+  {
+    "stallID": "B18",
+    "artistName": "I. Ribbon - Fantasy Author",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/iribbon.author"
+  },
+
+  {
+    "stallID": "C45b",
+    "artistName": "Mochiiknight",
+    "artistPicture": "assets/images/mochiiknight_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/mochiiknight/"
+  },
+
+  {
+    "stallID": "A39",
+    "artistName": "Kayoss Creative",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/kayosscreative"
+  },
+
+  {
+    "stallID": "A123",
+    "artistName": "Madzilla Fashion Boutique",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/madzillafb"
+  },
+
+  {
+    "stallID": "A129",
+    "artistName": "The Yeti's Tree Studios",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/the_yetis_tree"
+  },
+
+
+  {
+    "stallID": "C21",
+    "artistName": "MeadowClarks",
+    "artistPicture": "assets/images/meadowclarks_logo.jpeg",
+    "linkStore": "https://www.etsy.com/shop/meadowclarks/",
+    "linkInsta": "https://www.instagram.com/meadowclarks"
+  },
+
+  {
+    "stallID": "C43",
+    "artistName": "Yarn & Yeet",
+    "artistPicture": "assets/images/yarnandyeet_logo.webp",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/yarnandyeet"
+  },
+
+  {
+    "stallID": "A114",
+    "artistName": "Quietsovereign",
+    "artistPicture": "assets/images/quietsov_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/quietsovereign/"
+  },
+
+  {
+    "stallID": "C50b",
+    "artistName": "Fey Day Arts",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/feydayarts"
+  },
+
+  {
+    "stallID": "C20",
+    "artistName": "Furanky Draws",
+    "artistPicture": "",
+    "linkStore": "https://www.furankydraws.com",
+    "linkInsta": "https://www.instagram.com/furanky_draws"
+  },
+
+  {
+    "stallID": "A47",
+    "artistName": "Icedjuiceboxes",
+    "artistPicture": "assets/images/icedjuiceboxes_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/icedjuiceboxes"
+  },
+
+  {
+    "stallID": "C53a",
+    "artistName": "Eun",
+    "artistPicture": "assets/images/eun_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/eun.draws"
+  },
+
+  {
+    "stallID": "C55",
+    "artistName": "Shit-Imma-Artist",
+    "artistPicture": "assets/images/shit_imma_artist_logo.jpg",
+    "linkStore": "https://www.shit-imma-artist.com/",
+    "linkInsta": "https://www.instagram.com/shit_imma_artist/"
+  },
+
+  {
+    "stallID": "B2b",
+    "artistName": "Ghoste",
+    "artistPicture": "assets/images/ghoste_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/_ghoste_art_"
+  },
+
+  {
+    "stallID": "C33",
+    "artistName": "thlurp",
+    "artistPicture": "assets/images/thlurp_logo.png",
+    "linkStore": "https://thlurp.etsy.com",
+    "linkInsta": "https://www.instagram.com/thlurp/"
+  },
+
+  {
+    "stallID": "C35",
+    "artistName": "Artistic Alchemy",
+    "artistPicture": "assets/images/artistic_alchemy_logo.png",
+    "linkStore": "https://www.artistic-alchemy.co.nz/",
+    "linkInsta": "https://www.instagram.com/artistic_alchemy_nz"
+  },
+
+  {
+    "stallID": "C7",
+    "artistName": "Miss Cherrybomb",
+    "artistPicture": "",
+    "linkStore": "https://www.misscherrybomb.com.au",
+    "linkInsta": "https://www.instagram.com/misscherrybombartandexpos"
+  },
+
+  {
+    "stallID": "A65",
+    "artistName": "Huka Bead Art",
+    "artistPicture": "",
+    "linkStore": "https://www.hukabeadart.com",
+    "linkInsta": "https://www.instagram.com/hukabeadart"
+  },
+
+  {
+    "stallID": "C82a",
+    "artistName": "ailicchi",
+    "artistPicture": "assets/images/ailicchi_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/ailicchi"
+  },
+
+  {
+    "stallID": "C82b",
+    "artistName": "jiroillust",
+    "artistPicture": "assets/images/jiroillust_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/jiroillust/"
+  },
+
+  {
+    "stallID": "A127",
+    "artistName": "Flora & Fur",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/flora.and.fur"
+  },
+
+  {
+    "stallID": "A20",
+    "artistName": "Creatures of Chaos",
+    "artistPicture": "",
+    "linkStore": "https://creatureofchaos.felt.co.nz",
+    "linkInsta": "https://www.instagram.com/creaturesofchaos"
+  },
+
+  {
+    "stallID": "C15",
+    "artistName": "Zenzeyi",
+    "artistPicture": "assets/images/zenzeyi_logo.jpg",
+    "linkStore": "https://www.zenzeyi.com/",
+    "linkInsta": "https://www.instagram.com/zenzeyi/"
+  },
+
+  {
+    "stallID": "A12a",
+    "artistName": "Unconventional Void Axolotls",
+    "artistPicture": "assets/images/uncon_void_axo_logo.jpg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/unconventionalvoidartist"
+  },
+
+  {
+    "stallID": "B28",
+    "artistName": "Nori Teahouse",
+    "artistPicture": "assets/images/nori_teahouse_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/noriteahouse"
+  },
+
+  {
+    "stallID": "C63",
+    "artistName": "Sarah May Arts",
+    "artistPicture": "",
+    "linkStore": "http://sarahmayarts.etsy.com/",
+    "linkInsta": "http://www.instagram.com/sarahmayarts"
+  },
+
+  {
+    "stallID": "C5",
+    "artistName": "kodoyon",
+    "artistPicture": "assets/images/kodoyon_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/kodoyon"
+  },
+
+  {
+    "stallID": "B6b",
+    "artistName": "Billies Room",
+    "artistPicture": "assets/images/billies_room_logo.jpeg",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/billies.room"
+  },
+
+  {
+    "stallID": "A80",
+    "artistName": "CrochetCreationsbyLu",
+    "artistPicture": "assets/images/crochetcreationsbylu_logo.png",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/crochetcreationsbylu/"
+  },
+
+  {
+    "stallID": "C62",
+    "artistName": "MechanicalPen",
+    "artistPicture": "assets/images/mechanicalpen_logo.png",
+    "linkStore": "https://mechanicalpen.etsy.com",
+    "linkInsta": "https://www.instagram.com/mechanicalpen_/"
+  },
+
+  {
+    "stallID": "C23a",
+    "artistName": "Kaionalpaca",
+    "artistPicture": "",
+    "linkStore": "https://kaionalpaca.myshopify.com/",
+    "linkInsta": "https://www.instagram.com/kaionalpaca"
+  },
+
+  {
+    "stallID": "C24",
+    "artistName": "Parts Panda 3d",
+    "artistPicture": "assets/images/partspanda_logo.jpeg",
+    "linkStore": "https://partspanda3d.bigcartel.com",
+    "linkInsta": "https://instagram.com/partspanda3d"
+  },
+
+  {
+    "stallID": "C53b",
+    "artistName": "Candi Gribbs",
+    "artistPicture": "assets/images/candi_logo.jpeg",
+    "linkStore": "https://linktr.ee/candi.gribbs",
+    "linkInsta": "https://www.instagram.com/candi.gribbs"
+  },
+
+  {
+    "stallID": "C23b",
+    "artistName": "Mochi Sekai/Meemochi",
+    "artistPicture": "",
+    "linkStore": "https://mochisekai.com.au",
+    "linkInsta": "https://www.instagram.com/mochi.sekai"
+  },
+
+  {
+    "stallID": "A102",
+    "artistName": "SnowSprite",
+    "artistPicture": "assets/images/snowsprite_logo.png",
+    "linkStore": "https://snowsprite.bigcartel.com",
+    "linkInsta": "https://www.instagram.com/snow.sprite/"
+  },
+
+  {
+    "stallID": "A77",
+    "artistName": "Jackelope Treasures",
+    "artistPicture": "",
+    "linkStore": "https://www.etsy.com/nz/shop/JackelopeTreasures",
+    "linkInsta": "https://www.instagram.com/jackelope_treasures/"
+  },
+
+  {
+    "stallID": "C76",
+    "artistName": "Mousse Mouse",
+    "artistPicture": "assets/images/mousse_mouse_logo.png",
+    "linkStore": "https://moussemouse.com/",
+    "linkInsta": "https://www.instagram.com/mousse_mouse/"
+  },
+
+  {
+    "stallID": "A12b",
+    "artistName": "Tuatara Time",
+    "artistPicture": "",
+    "linkStore": "https://ko-fi.com/tuataratime/shop",
+    "linkInsta": "https://www.instagram.com/tuatara_time"
+  }
+
+]
