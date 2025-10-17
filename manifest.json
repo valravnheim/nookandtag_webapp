@@ -1,6 +1,6 @@
 {
-    "name": "armageddonapp_main",
-    "short_name": "armageddonapp_main",
+    "name": "nook&tag",
+    "short_name": "nook&tag",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
