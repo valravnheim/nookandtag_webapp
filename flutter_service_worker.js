@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "25760fee5e9cded4f5d36fab36322510",
-"assets/AssetManifest.bin.json": "988606957145d103432bd214e4069b27",
-"assets/AssetManifest.json": "5a3acaf1f461c64bf9069cae268f0b7e",
+const RESOURCES = {"assets/AssetManifest.bin": "bb6b970f52d3b991b01a87cb01c63195",
+"assets/AssetManifest.bin.json": "a2b2905bb717d5e57386cbb25df1db2a",
+"assets/AssetManifest.json": "e57f7532d7866c55cabd382168adb330",
 "assets/assets/data/artists.json": "0c7d5704407a34072f1bead498b38c2d",
 "assets/assets/data/artist_tags.json": "467b6f894a3baacf3708b99d50ed0759",
 "assets/assets/data/tags.json": "03b6566b3e97b26cc03f3be0244abacf",
@@ -101,11 +101,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "25760fee5e9cded4f5d36fab36322510
 "assets/assets/images/yarnandyeet_logo.webp": "dac9535264e7093c2faab2c1f595191e",
 "assets/assets/images/yukei_logo.jpeg": "42de75b6a51596e4c69afa9ab3328d09",
 "assets/assets/images/zenzeyi_logo.jpg": "7c300973ea1d08efd404d5e85c8bc822",
-"assets/assets/map/4000png.png": "fa79007440ec4c50e7ad977b0e112523",
-"assets/assets/map/6000.png": "f74e7774d9958cda85d239b4c052f941",
 "assets/assets/map/mapnormal.png": "d0bd14a2648c34424a898cfa54bd3ae6",
-"assets/assets/map/svg6000.svg": "2c42e76e4174302e6f6cd13debd640a4",
-"assets/assets/map/test.svg": "c9f6676f61dc2fc6d784a3c37ea9fe11",
 "assets/FontManifest.json": "78f8c8760c3037143d072318be57f91b",
 "assets/fonts/MaterialIcons-Regular.otf": "022580e69fdba63c7d97dbca24fd88ef",
 "assets/NOTICES": "c27fe0ac473a355dd10b7a3a8d74c85f",
@@ -125,7 +121,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "25760fee5e9cded4f5d36fab36322510
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "6b131f611ca164b7b445d486cb5977c5",
+"flutter_bootstrap.js": "1d71db31f8b8030d313b3d884eea49a6",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
