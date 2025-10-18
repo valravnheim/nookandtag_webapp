@@ -42172,7 +42172,7 @@ q=m.a=0
 p=k}else{p=l/0.6894174422612892
 r=m.b=0
 q=m.a=(k-p)/2
-s=l}r=A.b([A.jY(n,A.jY(n,new A.ON(s,p,B.mA,new A.Cp("assets/map/test.svg",n,n,n,n),n,n),n,n,n,n,n,n),p,n,r,n,q,s)],t.p)
+s=l}r=A.b([A.jY(n,A.jY(n,new A.ON(s,p,B.mA,new A.Cp("assets/map/svg1739.svg",n,n,n,n),n,n),n,n,n,n,n,n),p,n,r,n,q,s)],t.p)
 q=this.a
 o=q.d
 o===$&&A.a()
