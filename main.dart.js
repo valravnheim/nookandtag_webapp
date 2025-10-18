@@ -39600,17 +39600,17 @@ $S:91}
 A.a1J.prototype={
 $2(a,b){var s,r,q,p,o,n={},m=b.b,l=b.d
 n.a=n.b=null
-if(m/l>0.6894174422612892){s=l*0.6894174422612892
+if(m/l>1.4285714285714286){s=l*1.4285714285714286
 r=n.b=(m-s)/2
 q=n.a=0
-p=l}else{p=m/0.6894174422612892
+p=l}else{p=m/1.4285714285714286
 r=n.b=0
 q=n.a=(l-p)/2
 s=m}q=A.c([A.kj(null,A.a21("assets/map/mapnormal.png",B.lN,p,s),p,null,r,null,q,s)],t.p)
 r=this.a
 o=r.d
 o===$&&A.a()
-B.b.Z(q,new A.a2(o,new A.a1I(n,r,s/6000,p/8703),A.U(o).i("a2<1,f>")))
+B.b.Z(q,new A.a2(o,new A.a1I(n,r,s/4000,p/2800),A.U(o).i("a2<1,f>")))
 return A.i8(B.bS,q,B.K,B.bz)},
 $S:310}
 A.a1I.prototype={
