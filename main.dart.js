@@ -41516,7 +41516,7 @@ q=m.a=0
 p=k}else{p=l/0.6894174422612892
 r=m.b=0
 q=m.a=(k-p)/2
-s=l}r=A.b([A.lk(n,A.axe(new A.OM(B.Cm,new A.Cn("assets/map/svg6000.svg",n,n,n,n),n,n),B.al,B.I8,1),p,n,r,n,q,s)],t.p)
+s=l}r=A.b([A.lk(n,A.axe(new A.OM(B.Cm,new A.Cn("assets/map/svg1739.svg",n,n,n,n),n,n),B.al,B.I8,1),p,n,r,n,q,s)],t.p)
 q=this.a
 o=q.d
 o===$&&A.a()
