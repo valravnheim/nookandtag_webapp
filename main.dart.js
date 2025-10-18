@@ -39606,7 +39606,7 @@ q=m.a=0
 p=k}else{p=l/0.6894174422612892
 r=m.b=0
 q=m.a=(k-p)/2
-s=l}q=A.c([A.j0(n,A.j0(n,A.a21("assets/map/4000png.pngh",B.lN,p,s),n,n,n,n,n,n),p,n,r,n,q,s)],t.p)
+s=l}q=A.c([A.j0(n,A.j0(n,A.a21("assets/map/4000png.png",B.lN,p,s),n,n,n,n,n,n),p,n,r,n,q,s)],t.p)
 r=this.a
 o=r.d
 o===$&&A.a()
