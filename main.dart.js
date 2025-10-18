@@ -39481,7 +39481,7 @@ M(a){var s,r,q,p=this,o=null,n=A.bm(a,o,t.w).w.a.a,m=A.pN(p.w,p.x),l=t.p,k=A.c([
 if(p.z)k.push(B.m9)
 if(!p.z){s=p.f
 s===$&&A.a()
-k.push(new A.xt(B.Eu,A.eR(A.aDM(new A.a1J(p)),n*1.450499878520635,n),!0,!0,25,1,s,o))}s=p.r
+k.push(new A.xt(B.Eu,A.eR(A.aDM(new A.a1J(p)),n*0.7,n),!0,!0,25,1,s,o))}s=p.r
 if(s!=null){r=A.e9(16)
 k.push(A.kj(20,A.eM(o,A.dt(o,A.rP(A.c([A.wR(A.cU(s+" - more details",1,B.aB,o,o,B.QU,o,o),1),B.F_],l),B.af,B.dr,B.am,0),B.r,new A.cc(B.ml,o,o,r,o,o,B.a4),o,o,B.Ep,o),B.T,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a1K(p,a),o,o,o,o,o,o,!1,B.aL),o,o,20,20,o,o))}if(p.y!=null){l=A.ay(200,B.iI.C()>>>16&255,B.iI.C()>>>8&255,B.iI.C()&255)
 s=A.e9(10)
@@ -39606,7 +39606,7 @@ q=n.a=0
 p=l}else{p=m/0.6894174422612892
 r=n.b=0
 q=n.a=(l-p)/2
-s=m}q=A.c([A.kj(null,A.a21("assets/map/4000png.png",B.lN,p,s),p,null,r,null,q,s)],t.p)
+s=m}q=A.c([A.kj(null,A.a21("assets/map/mapnormal.png",B.lN,p,s),p,null,r,null,q,s)],t.p)
 r=this.a
 o=r.d
 o===$&&A.a()
