@@ -41326,7 +41326,7 @@ m=A.S(l,A.l(l).h("t.E"))
 p.a8(new A.alp(p,o,m))
 case 1:return A.N(q,r)}})
 return A.O($async$DH,r)},
-O(a){var s,r,q,p,o,n=this,m=null,l="artistPicture",k="linkInsta",j="assets/images/insta_logo.png",i="linkStore",h=A.rm(n.a.c,m),g=A.bx(a,m,t.w).w,f=A.ep(12),e=A.b([new A.dg(0,B.cq,A.aG(10,B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),B.P0,12)],t.sq)
+O(a){var s,r,q,p,o,n=this,m=null,l="artistPicture",k="linkInsta",j="assets/images/insta_jpeg.jpg",i="linkStore",h=A.rm(n.a.c,m),g=A.bx(a,m,t.w).w,f=A.ep(12),e=A.b([new A.dg(0,B.cq,A.aG(10,B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),B.P0,12)],t.sq)
 if(n.e)s=B.n0
 else{s=n.d
 if(s==null)s=A.hL(A.db('No data found for "'+n.a.c+'"',m,m,m,m,B.X8,m,m),m,m)
