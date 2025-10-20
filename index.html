@@ -14,7 +14,6 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
-    <!--flutter build web --web-renderer canvaskit --release --base-href /nookandtag_webapp/-->
   <base href="/nookandtag_webapp/">
 
   <meta charset="UTF-8">
@@ -36,11 +35,11 @@
 <body>
   <script src="flutter_bootstrap.js" async></script>
 
-  <script src="main.dart.js?v=1.0.7"></script>
+  <script src="main.dart.js?v=1.0.8"></script>
 
   <script>
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('flutter_service_worker.js?v=3678377392')
+    navigator.serviceWorker.register('flutter_service_worker.js?v=369993482')
       .then((registration) => {
         registration.onupdatefound = () => {
           const newWorker = registration.installing;
