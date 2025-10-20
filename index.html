@@ -36,6 +36,36 @@
   <script src="flutter_bootstrap.js" async></script>
 
   <script src="main.dart.js?v=1.0.2"></script>
+
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('flutter_service_worker.js?v=2222965543')
+      .then((registration) => {
+        // Listen for new service worker installations
+        registration.onupdatefound = () => {
+          const installingWorker = registration.installing;
+          installingWorker.onstatechange = () => {
+            if (installingWorker.state === 'installed') {
+              // Check if there's already a controlling SW (means an update is available)
+              if (navigator.serviceWorker.controller) {
+                // Only reload once per new version
+                if (!localStorage.getItem('sw-reloaded')) {
+                  localStorage.setItem('sw-reloaded', 'true');
+                  console.log('New version available, refreshing...');
+                  window.location.reload();
+                }
+              } else {
+                console.log('Content cached for the first time.');
+              }
+            }
+          };
+        };
+      })
+      .catch((error) => {
+        console.error('Service Worker registration failed:', error);
+      });
+  }
+  </script>
   
 </body>
 </html>
