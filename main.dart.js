@@ -41708,7 +41708,7 @@ return new A.bq(B.nY,A.d3(a,s,s,s,s,B.WM,s,s),s)},
 $S:415}
 A.Li.prototype={
 O(a){var s=null,r=A.rm("info",s),q=A.ep(12)
-return A.nj(r,new A.bq(B.du,A.dD(s,A.aeg(A.aef(A.C0(A.fi(A.b([A.d3("App Version: v1.0.6",s,s,s,s,B.XF,B.b_,s),B.bs,A.fl(s,A.d3("Terms & Conditions",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6r(a),s,s,s,s,s,s,!1,B.aO),B.bs,A.fl(s,A.d3("Privacy Policy",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6s(a),s,s,s,s,s,s,!1,B.aO),B.bs,A.fl(s,A.d3("About Us",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6t(a),s,s,s,s,s,s,!1,B.aO),B.zT,B.ZH,B.bs,new A.bq(B.h3,A.Bh(s,s,s,B.bu,s,s,!0,s,B.UN,B.b8,s,s,B.aG,B.am),s)],t.p),B.ai,B.aa,B.ap),s),s,B.br,8,!0),new A.nm(s,new A.by(8,t.YI),s,s,B.br,new A.by(B.j8,t.rc),s,s,s,s,s)),B.t,new A.co(B.j,s,s,q,B.hr,s,B.a0),s,s,B.h4,1/0),s),s)}}
+return A.nj(r,new A.bq(B.du,A.dD(s,A.aeg(A.aef(A.C0(A.fi(A.b([A.d3("App Version: v1.0.7",s,s,s,s,B.XF,B.b_,s),B.bs,A.fl(s,A.d3("Terms & Conditions",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6r(a),s,s,s,s,s,s,!1,B.aO),B.bs,A.fl(s,A.d3("Privacy Policy",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6s(a),s,s,s,s,s,s,!1,B.aO),B.bs,A.fl(s,A.d3("About Us",s,s,s,s,B.lL,B.b_,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6t(a),s,s,s,s,s,s,!1,B.aO),B.zT,B.ZH,B.bs,new A.bq(B.h3,A.Bh(s,s,s,B.bu,s,s,!0,s,B.UN,B.b8,s,s,B.aG,B.am),s)],t.p),B.ai,B.aa,B.ap),s),s,B.br,8,!0),new A.nm(s,new A.by(8,t.YI),s,s,B.br,new A.by(B.j8,t.rc),s,s,s,s,s)),B.t,new A.co(B.j,s,s,q,B.hr,s,B.a0),s,s,B.h4,1/0),s),s)}}
 A.a6r.prototype={
 $0(){var s=A.LP(new A.a6q(),!0,null,t.z)
 A.iM(this.a,!1).km(s)},

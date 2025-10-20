@@ -36,11 +36,11 @@
 <body>
   <script src="flutter_bootstrap.js" async></script>
 
-  <script src="main.dart.js?v=1.0.6"></script>
+  <script src="main.dart.js?v=1.0.7"></script>
 
   <script>
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('flutter_service_worker.js?v=2321502340')
+    navigator.serviceWorker.register('flutter_service_worker.js?v=3678377392')
       .then((registration) => {
         registration.onupdatefound = () => {
           const newWorker = registration.installing;
@@ -62,6 +62,16 @@
       .catch((error) => console.error('SW registration failed:', error));
   }
   </script>
+
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistration().then((registration) => {
+      if (registration) {
+        registration.update(); // 🔁 Check for a new version each launch
+      }
+    });
+  }
+</script>
 
   
 </body>
