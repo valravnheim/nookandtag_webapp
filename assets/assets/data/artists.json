@@ -886,6 +886,38 @@
     "artistPicture": "assets/images/aaron_logo.jpg",
     "linkStore": "https://www.aaronjnatanael.com",
     "linkInsta": "https://www.instagram.com/aaronjnatanael/"
+  },
+
+  {
+    "stallID": "A139a",
+    "artistName": "Crafterzan",
+    "artistPicture": "",
+    "linkStore": "",
+    "linkInsta": "https://www.instagram.com/crafterzan"
+  },
+
+  {
+    "stallID": "A139b",
+    "artistName": "Baileys Alchemy",
+    "artistPicture": "assets/images/bailey_alchemy_logo.jpg",
+    "linkStore": "https://www.emmalinebailey.co.nz",
+    "linkInsta": "https://www.instagram.com/emmalinebaileyartist"
+  },
+
+  {
+    "stallID": "68",
+    "artistName": "faith&joy",
+    "artistPicture": "",
+    "linkStore": "https://www.faithandjoy.co",
+    "linkInsta": "https://www.instagram.com/faithandjoy.co"
+  },
+
+  {
+    "stallID": "A122",
+    "artistName": "Puzzle P4ws",
+    "artistPicture": "assets/images/puzzlep4ws_logo.jpg",
+    "linkStore": "https://ko-fi.com/puzzlep4ws",
+    "linkInsta": "https://www.instagram.com/puzzle.p4ws"
   }
 
 ]

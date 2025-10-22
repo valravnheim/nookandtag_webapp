@@ -507,5 +507,18 @@
   {"tagID": 606, "tagName": "The Clone Wars"},
   {"tagID": 607, "tagName": "The Bad Batch"},
   {"tagID": 608, "tagName": "The Mandalorian"},
-  {"tagID": 609, "tagName": "The Legend of Korra"}
+  {"tagID": 609, "tagName": "The Legend of Korra"},
+  {"tagID": 610, "tagName": "Labubu"},
+  {"tagID": 611, "tagName": "Pop Culture"},
+  {"tagID": 612, "tagName": "Paintings"},
+  {"tagID": 613, "tagName": "Turtles "},
+  {"tagID": 614, "tagName": "Taylor Swift"},
+  {"tagID": 615, "tagName": "Glass Cups"},
+  {"tagID": 616, "tagName": "Sabrina Carpenter"},
+  {"tagID": 617, "tagName": "Gilmore Girls"},
+  {"tagID": 618, "tagName": "Sonny Angels"},
+  {"tagID": 619, "tagName": "Pre-Raphaelite"},
+  {"tagID": 620, "tagName": "Commissions"},
+  {"tagID": 621, "tagName": "Crystals"},
+  {"tagID": 622, "tagName": "Linocut/Ink Prints"}
 ]
