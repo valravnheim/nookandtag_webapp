@@ -33,6 +33,25 @@
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+
+  <!-- Firebase init (must load BEFORE Flutter) -->
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.9.0/firebase-app.js";
+    import { getAuth } from "https://www.gstatic.com/firebasejs/12.9.0/firebase-auth.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCSXC7nHmeD4M5kn2So5kXh-YtbLEzJj_Q",
+      authDomain: "nooktag-f4ac9.firebaseapp.com",
+      projectId: "nooktag-f4ac9",
+      storageBucket: "nooktag-f4ac9.firebasestorage.app",
+      messagingSenderId: "592011295340",
+      appId: "1:592011295340:web:b6f96cf0381b01f3a1b649"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    window.firebaseAuth = getAuth(app);
+  </script>
+
   <script src="flutter_bootstrap.js" async></script>
 
   <script src="main.dart.js?v=1.0.11"></script>
