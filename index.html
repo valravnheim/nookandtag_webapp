@@ -1,32 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
   <base href="/nookandtag_webapp/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
 
-  <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="nook&tag">
   <link rel="apple-touch-icon" href="icons/Icon-192.png" />
 
-  <!-- Favicon -->
   <link rel="icon" type="image/png" href="faviconnooktag.png"/>
 
   <title>nook&tag</title>
@@ -34,44 +19,5 @@
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
-
-  <script src="main.dart.js?v=1.0.11"></script>
-
-  <script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('flutter_service_worker.js?v=4202679055') /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
-      .then((registration) => {
-        registration.onupdatefound = () => {
-          const newWorker = registration.installing;
-          newWorker.onstatechange = () => {
-            if (newWorker.state === 'installed') {
-              if (navigator.serviceWorker.controller) {
-                // A new version is available
-                if (!localStorage.getItem('sw-prompted')) {
-                  localStorage.setItem('sw-prompted', 'true');
-                  if (confirm('A new version of the app is available. Refresh now to update?')) {
-                    window.location.reload();
-                  }
-                }
-              }
-            }
-          };
-        };
-      })
-      .catch((error) => console.error('SW registration failed:', error));
-  }
-  </script>
-
-  <script>
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.getRegistration().then((registration) => {
-      if (registration) {
-        registration.update(); // Check for a new version each launch
-      }
-    });
-  }
-</script>
-
-  
 </body>
 </html>
