@@ -98420,9 +98420,9 @@ A.hp("Building BottomNavBar with selectedIndex: "+p.d)
 s=p.e
 r=p.f
 q=new A.a7e()
-r=A.aIG([new A.D5("map",s,r,p.x),new A.H7("tags",r,p.r),new A.AU("artists",p.w),B.Ms][p.d],B.bO,A.aLx(),B.a7,new A.a7f())
+r=A.aIG([new A.D5("map",s,r,p.x),new A.H7("tags",r,p.r),new A.AU("creatives",p.w),B.Ms][p.d],B.bO,A.aLx(),B.a7,new A.a7f())
 s=p.d
-q=A.b([A.a7i(q.$2("assets/icons/maptransp.png",s===0),"Map"),A.a7i(q.$2("assets/icons/tagtransp.png",p.d===1),"Tags"),A.a7i(q.$2("assets/icons/artisttransp.png",p.d===2),"Artists"),A.a7i(q.$2("assets/icons/infotransp.png",p.d===3),"Info")],t.ur)
+q=A.b([A.a7i(q.$2("assets/icons/maptransp.png",s===0),"Map"),A.a7i(q.$2("assets/icons/tagtransp.png",p.d===1),"Tags"),A.a7i(q.$2("assets/icons/artisttransp.png",p.d===2),"Creatives"),A.a7i(q.$2("assets/icons/infotransp.png",p.d===3),"Info")],t.ur)
 return A.lu(o,o,r,A.Oy(B.EC,new A.B7(q,p.gals(),s,B.EO,B.j,o,B.qr,B.qr,0,0,!1,!1,o)))}}
 A.a7g.prototype={
 $0(){var s=this.a
@@ -99750,7 +99750,7 @@ b2=$.b_
 b3=(b2==null?$.b_=$.cl():b2).cv("[DEFAULT]")
 A.bq(b3,$.cO(),!0)
 s=6
-return A.C(A.h6(new A.bX(b3)).ex("users").uu(0,"role","artist").eU(),$async$vQ)
+return A.C(A.h6(new A.bX(b3)).ex("users").uu(0,"role","creative").eU(),$async$vQ)
 case 6:n=c4
 b2=t.S
 b4=t.N
