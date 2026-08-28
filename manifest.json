@@ -5,9 +5,10 @@
     "display": "standalone",
     "background_color": "#462255",
     "theme_color": "#462255",
-    "description": "web version of the nook&tag app",
+    "description": "Find and navigate stalls at events",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "categories": ["entertainment", "lifestyle"],
     "icons": [
         {
             "src": "icons/Icon-192nooktag.png",
