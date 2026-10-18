@@ -1,0 +1,1189 @@
+<svg width="4000" height="2800" viewBox="0 0 4000 2800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4000" height="2800" fill="#1E1E1E"/>
+<g id="Group 1">
+<rect id="BG" width="4000" height="2800" fill="#EAECF4"/>
+<rect id="Rectangle 296" x="369" y="448" width="1512" height="1357" fill="#FFE2F7"/>
+<rect id="Rectangle 297" x="1878" y="522" width="835" height="1280" fill="#D6F1FF"/>
+<rect id="Rectangle 298" x="2713" y="882" width="887" height="923" fill="#FDEDD6"/>
+<text id="HALL 3 &#38; 4" fill="#010101" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="950" y="1173.77">HALL 3 &#38; 4</tspan></text>
+<text id="HALL 2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2187" y="1080.77">HALL 2</tspan></text>
+<text id="HALL 1" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="64" font-weight="bold" letter-spacing="0em"><tspan x="2940" y="994.773">HALL 1&#10;</tspan></text>
+<text id="UPSTAIRS" fill="#0D0000" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="1889" y="2181.18">UPSTAIRS</tspan></text>
+<text id="ENTRY/EXIT" fill="#0D0000" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="965" y="2067.27">ENTRY/EXIT</tspan></text>
+<text id="LIFT" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="2663.91" y="2045.64">LIFT</tspan></text>
+<text id="RAMP" transform="matrix(0 -1 1 0 3685.11 1830.67)" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="0" y="27.1818">RAMP</tspan></text>
+<text id="FIRE EXIT" fill="#100101" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="3643.37" y="1405.35">FIRE&#10;</tspan><tspan x="3643.37" y="1439.35">EXIT</tspan></text>
+<text id="TOILETS" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="466" y="1888.18">TOILETS</tspan></text>
+<text id="TOILETS_2" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="1249.46" y="1856.38">TOILETS</tspan></text>
+<path id="Line 2" d="M365.905 448.981H767.599" stroke-width="4" stroke="#100000"/>
+<path id="Line 18" d="M892.803 448.373H1014.09" stroke-width="4" stroke="#100000"/>
+<path id="Line 27" d="M1881.59 422.292V588.303" stroke-width="4" stroke="#100000"/>
+<path id="Line 28" d="M1881.8 686.89L1881.81 1025.02" stroke-width="4" stroke="#100000"/>
+<path id="Line 29" d="M1877.72 1116.28L1877.48 1878.92" stroke-width="4" stroke="#100000"/>
+<path id="Line 19" d="M1137.99 448.373H1753.58" stroke-width="4" stroke="#100000"/>
+<path id="Line 9" d="M367.616 450.981L367.616 1070.65" stroke-width="4" stroke="#100000"/>
+<path id="Line 7" d="M2714.81 1445.44V1852.84" stroke-width="4" stroke="#100000"/>
+<path id="Line 46" d="M3599.72 883.928V1350.78" stroke-width="4" stroke="#100000"/>
+<path id="Line 47" d="M3599.72 1470.75V1807.2" stroke-width="4" stroke="#100000"/>
+<path id="Line 48" d="M3533.82 1805.2H3597.72" stroke-width="4" stroke="#100000"/>
+<path id="Line 62" d="M3619.89 1858.66H3722.93" stroke-width="4" stroke="#100000"/>
+<path id="Line 63" d="M3724.93 1721.13V1860.66" stroke-width="4" stroke="#100000"/>
+<path id="Line 64" d="M3681.89 1721.13V1807.2" stroke-width="4" stroke="#100000"/>
+<path id="Line 65" d="M3597.72 1805.2H3679.89" stroke-width="4" stroke="#100000"/>
+<path id="Line 53" d="M3602.94 1475.27H3733.36" stroke-width="4" stroke="#100000"/>
+<path id="Line 54" d="M3735.36 1255.58V1477.27" stroke-width="4" stroke="#100000"/>
+<path id="Line 55" d="M3551.47 1801.98L3551.47 1830.67" stroke-width="4" stroke="#100000"/>
+<path id="Line 58" d="M3638.02 1860.66V1985.86" stroke-width="3" stroke="#100000"/>
+<path id="Line 59" d="M3653.5 1860.66V1985.86" stroke-width="2" stroke="#100000"/>
+<path id="Line 60" d="M3669.15 1860.66V1985.86" stroke-width="2" stroke="#100000"/>
+<path id="Line 61" d="M3684.8 1860.66V1985.86" stroke-width="2" stroke="#100000"/>
+<path id="Line 56" d="M3551.47 1957.16L3551.47 1985.85" stroke-width="4" stroke="#100000"/>
+<path id="Line 57" d="M3722.93 1987.85L2759.12 1987.85" stroke-width="4" stroke="#100000"/>
+<path id="Line 49" d="M2843.89 1805.2L3413.83 1805.2" stroke-width="4" stroke="#100000"/>
+<path id="Line 38" d="M2715.5 1096.72V1385.15" stroke-width="4" stroke="#100000"/>
+<path id="Line 39" d="M2708.95 520.096V988.252" stroke-width="4" stroke="#100000"/>
+<path id="Line 40" d="M2706.95 522.096H2410.9" stroke-width="4" stroke="#100000"/>
+<path id="Line 43" d="M3004.31 883.319H2708.26" stroke-width="4" stroke="#100000"/>
+<path id="Line 44" d="M3216.9 883.319L3082.91 883.621" stroke-width="4" stroke="#100000"/>
+<path id="Line 45" d="M3597.74 885.275H3300.35" stroke-width="4" stroke="#100000"/>
+<path id="Line 41" d="M2327.43 522.096H2212.66" stroke-width="4" stroke="#100000"/>
+<path id="Line 42" d="M2129.19 522.096H1881.39" stroke-width="4" stroke="#100000"/>
+<path id="Line 22" d="M722.648 1808.5V1937.6" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 24" d="M370.513 1796.77V1983.25" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 30" d="M1087.67 1803.94L1087.67 1894.38" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 31" d="M1547.26 1800.69L1547.26 1894.38" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 32" d="M1085.67 1892.38H1547.7" stroke-width="4" stroke="#0022FF"/>
+<text id="TOILETS_3" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="2242.65" y="1857.85">TOILETS</tspan></text>
+<path id="Line 33" d="M2007.29 1801.98V1891.96" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 35" d="M2583.75 1801.98V1897.18" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 34" d="M2005.29 1895.18H2586.96" stroke-width="4" stroke="#0022FF"/>
+<text id="TOILETS_4" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="3083.87" y="1857.85">TOILETS</tspan></text>
+<path id="Line 50" d="M2954.14 1807.2V1897.18" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 52" d="M3366.27 1807.2V1899.79" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 51" d="M2952.13 1897.79H3368.2" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 66" d="M2637.22 1991.07L2637.24 2084.96" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 68" d="M2635.22 1989.07H2713.47" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 67" d="M2635.2 2083.61H2759.12" stroke-width="4" stroke="#0022FF"/>
+<text id="FOOD COURT" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="2367.86" y="2230.81">FOOD COURT</tspan></text>
+<text id="FOOD" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="2793.03" y="2133.01">FOOD</tspan></text>
+<text id="FOOD_2" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="28" font-weight="bold" letter-spacing="0em"><tspan x="2217.52" y="2040.52">FOOD</tspan></text>
+<text id="INFO" fill="#0022FF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="2023.55" y="2048.33">INFO</tspan></text>
+<path id="Line 70" d="M2522.45 1985.85L2522.47 2103.22" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 81" d="M2342.47 1983.22L2340.47 1983.25L2341.77 2105.83L2343.77 2105.81L2345.77 2105.78L2344.47 1983.2L2342.47 1983.22Z" fill="#0022FF"/>
+<path id="Line 75" d="M2177.65 2086.88L2177.44 2088.87L2341.77 2105.83L2341.98 2103.84L2342.18 2101.85L2177.86 2084.9L2177.65 2086.88Z" fill="#0022FF"/>
+<path id="Line 80" d="M1973.38 1983.25V2084.96" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 82" d="M2178.75 2086.96H1971.38" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 76" d="M2178.05 2088.92L2180.05 2088.87L2177.44 1983.25L2175.45 1983.29L2173.45 1983.34L2176.05 2088.97L2178.05 2088.92Z" fill="#0022FF"/>
+<path id="Line 74" d="M2341.77 1985.25H1971.38" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 72" d="M2520.45 1989.07L2635.22 1989.07" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 71" d="M2520.81 2099.95L2520.45 2101.91L2922.15 2174.94L2922.5 2172.97L2922.86 2171.01L2521.17 2097.98L2520.81 2099.95Z" fill="#0022FF"/>
+<path id="Line 78" d="M2921.54 2081.05V2174.94" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 77" d="M2635.2 2086.87L2635.22 2088.87L2919.54 2086.27L2919.52 2084.27L2919.5 2082.27L2635.18 2084.87L2635.2 2086.87Z" fill="#0022FF"/>
+<path id="Line 69" d="M2761.12 1991.07L2761.12 2084.96" stroke-width="4" stroke="#0022FF"/>
+<path id="Line 36" d="M2005.29 1805.2H2584.36" stroke-width="4" stroke="#000312"/>
+<path id="Line 23" d="M368.259 1981.26L368.513 1983.25L725.865 1937.6L725.612 1935.62L725.358 1933.64L368.006 1979.28L368.259 1981.26Z" fill="#0022FF"/>
+<path id="Line 21" d="M466.328 1807.81H815.855" stroke-width="4" stroke="#100000"/>
+<path id="Line 25" d="M1065.31 1802.76L1065.3 1804.76L1315.37 1806.55L1315.38 1804.55L1315.4 1802.55L1065.33 1800.76L1065.31 1802.76Z" fill="#100000"/>
+<path id="Line 100" d="M1303.63 1991.68H1679.24" stroke-width="4" stroke="#100000"/>
+<path id="Line 101" d="M1306.73 1992.51L1137.23 2011.99" stroke-width="4" stroke="#100000"/>
+<path id="Line 102" d="M952.246 2034.98L522.655 2088.25" stroke-width="4" stroke="#100000"/>
+<path id="Line 103" d="M553.84 2083.35L553.71 2082.35L338.516 2110.46L338.646 2111.45L338.775 2112.44L553.969 2084.34L553.84 2083.35Z" fill="#100000"/>
+<path id="Line 26" d="M1306.5 1804.76H1670.37" stroke-width="4" stroke="#100000"/>
+<path id="Line 37" d="M1874.87 1805.2H1921.98" stroke-width="4" stroke="#100000"/>
+<path id="Line 97" d="M1620.55 2264.23H1838.35" stroke-width="4" stroke="#100000"/>
+<path id="Line 98" d="M2929.74 2389.49L2929.97 2387.5L1835.35 2262.66L1835.12 2264.65L1834.89 2266.64L2929.52 2391.48L2929.74 2389.49Z" fill="#100000"/>
+<path id="Line 99" d="M2943.64 2267.23L2945.62 2267.53L2967.79 2120.17L2965.82 2119.87L2963.84 2119.58L2941.67 2266.93L2943.64 2267.23Z" fill="#100000"/>
+<path id="Line 83" d="M1868.35 2196.41H2082.24" stroke-width="4" stroke="#100000"/>
+<path id="Line 84" d="M1868.4 2261.31L1868.35 2262.31L2082.24 2272.75L2082.29 2271.75L2082.34 2270.75L1868.45 2260.32L1868.4 2261.31Z" fill="#100000"/>
+<path id="Line 85" d="M1876.48 2262.31V2198.41" stroke-width="2" stroke="#100000"/>
+<path id="Line 86" d="M1884.3 2261.01V2197.11" stroke-width="2" stroke="#100000"/>
+<path id="Line 87" d="M1892.13 2262.31V2198.41" stroke-width="2" stroke="#100000"/>
+<path id="Line 88" d="M1899.95 2262.31V2197.11" stroke-width="2" stroke="#100000"/>
+<path id="Line 89" d="M1907.78 2262.31V2197.11" stroke-width="2" stroke="#100000"/>
+<path id="Line 90" d="M1915.6 2262.31V2195.81" stroke-width="2" stroke="#100000"/>
+<path id="Line 91" d="M1966.47 2264.92L1966.47 2197.11" stroke-width="2" stroke="#100000"/>
+<path id="Line 92" d="M1974.29 2264.92V2197.11" stroke-width="2" stroke="#100000"/>
+<path id="Line 93" d="M1982.12 2267.53V2202.33" stroke-width="2" stroke="#100000"/>
+<path id="Line 94" d="M1989.94 2266.23V2223.19" stroke-width="2" stroke="#100000"/>
+<path id="Line 95" d="M1997.77 2267.53V2244.06" stroke-width="2" stroke="#100000"/>
+<path id="Line 96" d="M2006.5 2268.06L2007.9 2267.53L1980.51 2195.81L1979.11 2196.34L1977.71 2196.88L2005.1 2268.6L2006.5 2268.06Z" fill="#100000"/>
+<path id="Door 29" d="M2922.69 2384.46L2941.46 2387.07C2942.9 2376.31 2936.13 2366.81 2927.83 2365.65L2927.84 2365.55C2927.55 2365.54 2927.26 2365.53 2926.97 2365.5L2924.29 2384.68L2923.3 2384.54L2939.75 2266.68L2939.13 2266.6L2939.55 2263.62L2958.32 2266.24C2958.32 2266.24 2958.32 2266.24 2958.33 2266.24L2959.31 2266.38L2966.11 2267.33L2965.7 2270.3L2959.67 2269.46C2957.44 2277.24 2951.18 2283.02 2944.13 2284.63C2950.83 2288.02 2955.41 2296.19 2954.85 2305.14L2961.69 2306.09L2961.27 2309.06L2954.45 2308.11C2952.67 2316.64 2945.95 2323.04 2938.3 2324.8C2945.14 2328.14 2949.84 2336.44 2949.22 2345.52L2956.94 2346.6L2956.52 2349.57L2948.81 2348.49C2946.99 2356.97 2940.3 2363.33 2932.68 2365.08C2939.91 2368.6 2944.74 2377.67 2943.44 2387.35L2942.45 2387.21L2949.25 2388.16L2948.84 2391.13L2922.27 2387.43L2922.69 2384.46ZM2938.48 2282.99C2946.52 2283.9 2954.99 2278.09 2957.67 2269.18L2940.74 2266.82L2938.48 2282.99ZM2952.86 2304.86C2953.44 2294.79 2946.94 2286.2 2939.07 2285.1L2939.08 2285.05C2938.79 2285.03 2938.5 2285.01 2938.21 2284.97L2935.77 2302.47L2952.86 2304.86ZM2932.87 2323.24C2941.53 2323.89 2950.4 2317.4 2952.47 2307.83L2935.35 2305.45L2932.87 2323.24ZM2947.24 2345.25C2947.87 2335.13 2941.35 2326.48 2933.45 2325.37L2933.46 2325.28C2933.17 2325.27 2932.88 2325.25 2932.59 2325.23L2930.13 2342.86L2947.24 2345.25ZM2927.25 2363.52C2935.87 2364.17 2944.72 2357.72 2946.82 2348.22L2929.72 2345.83L2927.25 2363.52Z" fill="#FF0000"/>
+<path id="Door 23" d="M3597.72 1468.88H3598.35V1349.87H3597.72V1346.87H3616.68C3616.68 1346.87 3616.68 1346.87 3616.68 1346.87L3617.68 1346.87L3617.85 1346.87H3624.54V1349.87H3618.46C3617.33 1357.89 3611.92 1364.47 3605.17 1367.05C3612.27 1369.48 3617.94 1376.94 3618.62 1385.87H3625.52V1388.87H3618.63C3618.05 1397.57 3612.28 1404.84 3604.94 1407.64C3612.18 1409.99 3617.98 1417.57 3618.62 1426.65H3626.42V1429.65H3618.63C3618 1438.3 3612.25 1445.52 3604.94 1448.3C3612.59 1450.8 3618.63 1459.11 3618.68 1468.87L3617.85 1468.88H3624.54V1471.88H3597.72V1468.88ZM3599.35 1366.2C3607.44 1365.99 3615.01 1359.07 3616.44 1349.87H3599.35V1366.2ZM3616.61 1385.87C3615.79 1375.82 3608.17 1368.21 3600.22 1368.21V1368.16C3599.93 1368.18 3599.64 1368.2 3599.35 1368.2V1385.87H3616.61ZM3599.35 1406.84C3608.01 1406.29 3615.91 1398.63 3616.63 1388.87H3599.35V1406.84ZM3616.62 1426.65C3615.84 1416.55 3608.2 1408.88 3600.22 1408.88V1408.78C3599.93 1408.81 3599.64 1408.83 3599.35 1408.85V1426.65H3616.62ZM3599.35 1447.51C3607.98 1446.96 3615.85 1439.35 3616.62 1429.65H3599.35V1447.51ZM3616.68 1468.88C3616.62 1458.01 3608.6 1449.54 3600.22 1449.54V1449.44C3599.93 1449.47 3599.64 1449.5 3599.35 1449.51V1468.88H3616.68Z" fill="#FF0303"/>
+<path id="Door 6" d="M889.622 450.982V450.358H770.607V450.982H767.607V432.024C767.605 432.024 767.603 432.024 767.601 432.024L767.607 431.024V424.163H770.607V430.244C778.62 431.379 785.209 436.784 787.781 443.536C790.213 436.434 797.673 430.767 806.611 430.091V423.189H809.611V430.074C818.308 430.659 825.575 436.429 828.376 443.766C830.734 436.527 838.309 430.727 847.392 430.083V422.292H850.392V430.081C859.041 430.707 866.26 436.46 869.049 443.767C871.541 436.12 879.854 430.079 889.616 430.026L889.622 431.026V424.163H892.622V450.982H889.622ZM786.937 449.358C786.728 441.27 779.801 433.692 770.607 432.264V449.358H786.937ZM806.611 432.097C796.56 432.917 788.943 440.54 788.943 448.487H788.895C788.917 448.776 788.931 449.066 788.938 449.358H806.611V432.097ZM827.582 449.358C827.029 440.693 819.368 432.8 809.611 432.078V449.358H827.582ZM847.392 432.088C837.287 432.862 829.615 440.511 829.615 448.487H829.515C829.546 448.776 829.57 449.066 829.586 449.358H847.392V432.088ZM868.253 449.358C867.703 440.725 860.097 432.858 850.392 432.085V449.358H868.253ZM889.622 432.026C878.757 432.087 870.286 440.108 870.286 448.489H870.187C870.217 448.777 870.242 449.067 870.258 449.358H889.622V432.026Z" fill="#FF0303"/>
+<path id="Door 7" d="M1136.12 450.982V450.358H1017.1V450.982H1014.1V432.024C1014.1 432.024 1014.1 432.024 1014.1 432.024L1014.1 431.024V424.163H1017.1V430.244C1025.11 431.379 1031.7 436.784 1034.28 443.536C1036.71 436.434 1044.17 430.767 1053.11 430.091V423.189H1056.11V430.074C1064.8 430.659 1072.07 436.429 1074.87 443.766C1077.23 436.527 1084.8 430.727 1093.89 430.083V422.292H1096.89V430.081C1105.54 430.707 1112.75 436.46 1115.54 443.767C1118.04 436.12 1126.35 430.079 1136.11 430.026L1136.12 431.026V424.163H1139.12V450.982H1136.12ZM1033.43 449.358C1033.22 441.27 1026.3 433.692 1017.1 432.264V449.358H1033.43ZM1053.11 432.097C1043.05 432.917 1035.44 440.54 1035.44 448.487H1035.39C1035.41 448.776 1035.43 449.066 1035.43 449.358H1053.11V432.097ZM1074.08 449.358C1073.52 440.693 1065.86 432.8 1056.11 432.078V449.358H1074.08ZM1093.89 432.088C1083.78 432.862 1076.11 440.511 1076.11 448.487H1076.01C1076.04 448.776 1076.06 449.066 1076.08 449.358H1093.89V432.088ZM1114.75 449.358C1114.2 440.725 1106.59 432.858 1096.89 432.085V449.358H1114.75ZM1136.12 432.026C1125.25 432.087 1116.78 440.108 1116.78 448.489H1116.68C1116.71 448.777 1116.74 449.067 1116.75 449.358H1136.12V432.026Z" fill="#FF0303"/>
+<path id="Door 8" d="M1875.6 452.286V433.33C1864.74 433.391 1856.27 441.412 1856.27 449.793H1856.17C1856.2 450.081 1856.22 450.371 1856.24 450.662H1875.6V451.662H1756.59V452.286H1753.59V433.328C1753.58 433.328 1753.58 433.328 1753.58 433.328L1753.59 432.328V425.467H1756.59V431.548C1764.6 432.683 1771.19 438.087 1773.76 444.839C1776.19 437.737 1783.65 432.071 1792.59 431.395V424.493H1795.59V431.378C1804.29 431.962 1811.55 437.732 1814.36 445.07C1816.71 437.831 1824.29 432.031 1833.37 431.387V423.596H1836.37V431.385C1845.02 432.011 1852.24 437.764 1855.03 445.071C1857.52 437.424 1865.83 431.382 1875.6 431.33L1875.6 432.33V425.467H1878.6V452.286H1875.6ZM1772.92 450.662C1772.71 442.573 1765.78 434.997 1756.59 433.569V450.662H1772.92ZM1792.59 433.401C1782.54 434.221 1774.92 441.844 1774.92 449.791H1774.87C1774.9 450.08 1774.91 450.37 1774.92 450.662H1792.59V433.401ZM1813.56 450.662C1813.01 441.997 1805.35 434.104 1795.59 433.382V450.662H1813.56ZM1833.37 433.392C1823.27 434.166 1815.59 441.815 1815.59 449.791H1815.49C1815.52 450.08 1815.55 450.37 1815.57 450.662H1833.37V433.392ZM1854.23 450.662C1853.68 442.029 1846.08 434.163 1836.37 433.39V450.662H1854.23Z" fill="#FF0303"/>
+<path id="Door 14" d="M2132.2 525V525.313H2129.2V525H2129.2L2129.2 524V506.355C2129.19 506.355 2129.19 506.355 2129.19 506.355L2129.2 505.355V498.494H2132.2V504.576C2140.21 505.71 2146.8 511.115 2149.37 517.867C2151.8 510.765 2159.26 505.098 2168.2 504.422V497.52H2171.2V504.405C2179.9 504.989 2187.16 510.759 2189.97 518.097C2192.32 510.859 2199.9 505.059 2208.98 504.414V496.623H2211.98V524H2212.66V525H2132.2ZM2148.53 524C2148.5 515.796 2141.51 508.042 2132.2 506.596V524H2148.53ZM2168.2 506.428C2158.15 507.249 2150.53 514.871 2150.53 522.818H2150.49C2150.51 523.21 2150.53 523.604 2150.53 524H2168.2V506.428ZM2189.19 524C2188.8 515.214 2181.07 507.14 2171.2 506.409V524H2189.19ZM2208.98 506.419C2198.88 507.193 2191.2 514.842 2191.2 522.818H2191.11C2191.15 523.21 2191.17 523.604 2191.19 524H2208.98V506.419Z" fill="#FF0303"/>
+<path id="Door 28" d="M2075.99 2201.42H2075.72V2198.42H2075.99V2198.42H2076.99V2198.42H2091.87C2091.87 2198.42 2091.87 2198.42 2091.87 2198.42L2092.87 2198.42H2098.77V2201.42H2093.63C2092.56 2208.21 2088.09 2213.8 2082.47 2216.12C2088.5 2218.38 2093.24 2224.9 2093.82 2232.65H2099.61V2235.65H2093.8C2093.18 2243.03 2088.4 2249.22 2082.28 2251.74C2088.42 2253.94 2093.28 2260.56 2093.82 2268.43H2100.38V2271.43H2076.99V2271.66H2075.99V2201.42ZM2076.99 2215.26C2083.78 2215.15 2090.23 2209.31 2091.61 2201.42H2076.99V2215.26ZM2091.81 2232.65C2091.11 2223.87 2084.59 2217.27 2077.86 2217.27V2217.23C2077.57 2217.25 2077.28 2217.26 2076.99 2217.27V2232.65H2091.81ZM2076.99 2250.94C2084.28 2250.52 2091.01 2244.03 2091.8 2235.65H2076.99V2250.94ZM2091.82 2268.43C2091.15 2259.6 2084.61 2252.96 2077.86 2252.96V2252.87C2077.57 2252.9 2077.28 2252.92 2076.99 2252.94V2268.43H2091.82Z" fill="#080000"/>
+<path id="Door 15" d="M2330.44 525V525.313H2327.44V525H2327.44V524H2327.44V506.355C2327.43 506.355 2327.43 506.355 2327.43 506.355L2327.44 505.355V498.494H2330.44V504.576C2338.45 505.71 2345.04 511.115 2347.61 517.867C2350.04 510.765 2357.5 505.098 2366.44 504.422V497.52H2369.44V504.405C2378.14 504.989 2385.4 510.76 2388.21 518.098C2390.56 510.859 2398.14 505.058 2407.22 504.414V496.623H2410.22V524H2410.9V525H2330.44ZM2346.77 524C2346.73 515.796 2339.75 508.042 2330.44 506.596V524H2346.77ZM2366.44 506.428C2356.39 507.249 2348.77 514.871 2348.77 522.818H2348.72C2348.75 523.21 2348.77 523.604 2348.77 524H2366.44V506.428ZM2387.43 524C2387.04 515.214 2379.31 507.14 2369.44 506.409V524H2387.43ZM2407.22 506.419C2397.12 507.193 2389.44 514.842 2389.44 522.818H2389.34C2389.39 523.21 2389.41 523.604 2389.43 524H2407.22V506.419Z" fill="#FF0303"/>
+<path id="Door 21" d="M3004.71 886.223V886.536H3001.71V886.223H3001.71L3001.71 885.223V867.578C3001.71 867.578 3001.7 867.578 3001.7 867.578L3001.71 866.578V859.718H3004.71V865.799C3012.72 866.933 3019.31 872.337 3021.88 879.09C3024.32 871.988 3031.77 866.321 3040.71 865.645V858.743H3043.71V865.628C3052.41 866.213 3059.68 871.983 3062.48 879.321C3064.84 872.082 3072.41 866.282 3081.49 865.637V857.846H3084.49V885.223H3085.17V886.223H3004.71ZM3021.04 885.223C3021.01 877.019 3014.02 869.265 3004.71 867.819V885.223H3021.04ZM3040.71 867.651C3030.66 868.472 3023.04 876.094 3023.04 884.041H3023C3023.03 884.433 3023.04 884.828 3023.04 885.223H3040.71V867.651ZM3061.7 885.223C3061.31 876.437 3053.59 868.363 3043.71 867.633V885.223H3061.7ZM3081.49 867.642C3071.39 868.416 3063.72 876.065 3063.72 884.041H3063.62C3063.66 884.433 3063.69 884.827 3063.7 885.223H3081.49V867.642Z" fill="#FF0303"/>
+<path id="Door 22" d="M3219.9 886.223V886.536H3216.9V886.223H3216.9V885.223H3216.9V867.578C3216.9 867.578 3216.9 867.578 3216.9 867.578L3216.9 866.578V859.718H3219.9V865.799C3227.92 866.933 3234.51 872.338 3237.08 879.091C3239.51 871.988 3246.97 866.321 3255.91 865.645V858.743H3258.91V865.628C3267.6 866.213 3274.87 871.983 3277.67 879.321C3280.03 872.082 3287.6 866.282 3296.69 865.637V857.846H3299.69V885.223H3300.37V886.223H3219.9ZM3236.24 885.223C3236.2 877.019 3229.22 869.265 3219.9 867.819V885.223H3236.24ZM3255.91 867.651C3245.86 868.472 3238.24 876.094 3238.24 884.041H3238.19C3238.22 884.433 3238.24 884.828 3238.24 885.223H3255.91V867.651ZM3276.89 885.223C3276.51 876.437 3268.78 868.363 3258.91 867.633V885.223H3276.89ZM3296.69 867.642C3286.58 868.416 3278.91 876.065 3278.91 884.041H3278.81C3278.85 884.433 3278.88 884.827 3278.9 885.223H3296.69V867.642Z" fill="#FF0303"/>
+<path id="33" d="M369.587 995.874H422.364V1048.64H369.587V995.874Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="9" d="M584.707 1752.12H692.26V1804.89H584.707V1752.12Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="8" d="M694.26 1752.12H747.036V1804.89H694.26V1752.12Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="7" d="M749.036 1752.12H801.813V1804.89H749.036V1752.12Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="18" d="M1250 1602H1399V1655H1250V1602Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="4" d="M1307.5 1751.17H1360.28V1803.94H1307.5V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="6" d="M1083.41 1751.17H1136.19V1803.94H1083.41V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="3" d="M1362.28 1751.17H1415.05V1803.94H1362.28V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="1" d="M1526.61 1751.17H1579.38V1803.94H1526.61V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="5" d="M1138.19 1751.17H1190.96V1803.94H1138.19V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="19" d="M1401 1602H1517V1655H1401V1602Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="2" d="M1417.05 1751.17H1524.61V1803.94H1417.05V1751.17Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="20" d="M1519 1602H1577V1655H1519V1602Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="25" d="M1626.77 1014.64V844.502H1686.06V1014.64H1626.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="21" d="M1768 1661H1875.55V1713.77H1768V1661Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="10">
+<path d="M423.363 1754.1H474.228V1808.86H368.587V1726.71H423.363V1754.1Z" fill="white"/>
+<mask id="stroke0_0_1" fill="white">
+<path d="M423.363 1754.1H474.228V1808.86H368.587V1726.71H423.363V1754.1Z"/>
+</mask>
+<path d="M423.363 1754.1H474.228V1808.86H368.587V1726.71H423.363V1754.1Z" stroke-width="4" stroke="#0E0000" mask="url(#stroke0_0_1)"/>
+</g>
+<path id="42" d="M1475 450H1527.78V502.77H1475V450Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="43" d="M1530 449H1583V503H1530V449Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="46" d="M1826.57 523.306H1879.35V576.076H1826.57V523.306Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="48" d="M2042.51 523.306H2095.29V576.076H2042.51V523.306Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="53" d="M1997 852H2049.78V904.77H1997V852Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="59" d="M2175 625H2228V739H2175V625Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="66" d="M2653 691H2706V798H2653V691Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="110" d="M2709.26 884.928H2762.03V937.698H2709.26V884.928Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="54" d="M1997 906.865H2049.78V959.635H1997V906.865Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="55" d="M1997.45 961.769H2104.45V1014.77H1997.45V961.769Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="76" d="M2022.45 1327.9H2074.45V1381.9H2022.45V1327.9Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="77" d="M2022.45 1272.9H2074.45V1326.9H2022.45V1272.9Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="80" d="M2076.78 1164.77H2129.55V1217.54H2076.78V1164.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="81" d="M2076.45 1218.9H2129.45V1326.9H2076.45V1218.9Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="88" d="M2236.04 1219.21H2289.04V1327.21H2236.04V1219.21Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="99" d="M2645.35 1327H2712.47V1379.77H2645.35V1327Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="98" d="M2645.35 1272.23H2712.47V1325H2645.35V1272.23Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="97" d="M2645.35 1107.92H2712.47V1270.23H2645.35V1107.92Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="89" d="M2235.78 1329.08H2288.55V1381.85H2235.78V1329.08Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="83" d="M2181 1329.08H2233.78V1381.85H2181V1329.08Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="82" d="M2076.45 1327.9H2129.45V1381.9H2076.45V1327.9Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="86" d="M2181 1110H2234.04V1217.54H2181V1110Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="79">
+<path d="M2130.55 1109V1163.77H2075.78V1218.54H2021V1109H2130.55Z" fill="white"/>
+<mask id="stroke1_0_1" fill="white">
+<path d="M2130.55 1109V1163.77H2075.78V1218.54H2021V1109H2130.55Z"/>
+</mask>
+<path d="M2130.55 1109V1163.77H2075.78V1218.54H2021V1109H2130.55Z" stroke-width="4" stroke="black" mask="url(#stroke1_0_1)"/>
+</g>
+<path id="71" d="M1879 1661H1931.78V1713.77H1879V1661Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="72" d="M1879 1715.77H1931.78V1768.54H1879V1715.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="103" d="M2513 1751H2565V1799H2513V1751Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="104" d="M2660 1693H2712V1746H2660V1693Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="108" d="M2716.4 1693.32H2769.18V1746.09H2716.4V1693.32Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="105" d="M2660 1568H2712V1691H2660V1568Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="107" d="M2659.7 1454.8H2712.47V1510.18H2659.7V1454.8Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="100" d="M2507 1446H2559.78V1498.77H2507V1446Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="109" d="M2717.22 1316.96H2770V1369.73H2717.22V1316.96Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="101" d="M2507 1500.77H2559.78V1553.54H2507V1500.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="102" d="M2507 1555.54H2559.78V1608.31H2507V1555.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="56" d="M2051.45 850.769H2104.23V959.77H2051.45V850.769Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="68" d="M1879 1127H1931.78V1306.13H1879V1127Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="84" d="M2181 1274.31H2235.04V1327.08H2181V1274.31Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="85" d="M2181.04 1219.21H2235.04V1272.21H2181.04V1219.21Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="106" d="M2659.7 1512.18H2712.47V1566H2659.7V1512.18Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="73" d="M2114.21 1751.17V1803.94H2006.65V1751.17H2114.21Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="64" d="M2653.18 523.306H2705.95V633.853H2653.18V523.306Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="65" d="M2653.18 635.854H2705.95V689H2653.18V635.854Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="47" d="M1883.61 523.306H2040.72V576.076H1883.61V523.306Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="49">
+<path d="M2321.37 522.306V561.427H2289.28V561.428H2218.34V522.306H2321.37Z" fill="white"/>
+<mask id="stroke2_0_1" fill="white">
+<path d="M2321.37 522.306V561.427H2289.28V561.428H2218.34V522.306H2321.37Z"/>
+</mask>
+<path d="M2321.37 522.306V561.427H2289.28V561.428H2218.34V522.306H2321.37Z" stroke-width="4" stroke="black" mask="url(#stroke2_0_1)"/>
+</g>
+<path id="50" d="M1935.17 693V855.542H1882.39V693H1935.17Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="52" d="M2049.78 693V850.095H1997V693H2049.78Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="67" d="M2705.95 800.164V974.211H2653.18V800.164H2705.95Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="57">
+<path d="M2105.55 849.769H2050.78V814.311H2050.78V746.771H2105.55V849.769Z" fill="white"/>
+<mask id="stroke3_0_1" fill="white">
+<path d="M2105.55 849.769H2050.78V814.311H2050.78V746.771H2105.55V849.769Z"/>
+</mask>
+<path d="M2105.55 849.769H2050.78V814.311H2050.78V746.771H2105.55V849.769Z" stroke-width="4" stroke="black" mask="url(#stroke3_0_1)"/>
+</g>
+<path id="96" d="M2540.11 1162.77H2383V1110H2540.11V1162.77Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="95" d="M2432.62 1217.54H2383V1164.77H2432.62V1217.54Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="94" d="M2488.62 1217.5H2434.62V1164.73H2488.62V1217.5Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="93" d="M2539.62 1217.5H2490.62V1164.73H2539.62V1217.5Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="74" d="M2080.78 1502V1678.09H2028V1502H2080.78Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="63" d="M2409 614V1008H2359V614H2409Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="51" d="M1935.57 857.363V1014.42H1882.8V857.363H1935.57Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="36" d="M369.587 652.04H422.364V704.81H369.587V652.04Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="37" d="M369.587 545.326H422.363V650.221H369.587V545.326Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="38">
+<path d="M659.425 502.731H423.363V544.325H368.587V449.791H659.425V502.731Z" fill="white"/>
+<mask id="stroke4_0_1" fill="white">
+<path d="M659.425 502.731H423.363V544.325H368.587V449.791H659.425V502.731Z"/>
+</mask>
+<path d="M659.425 502.731H423.363V544.325H368.587V449.791H659.425V502.731Z" stroke-width="4" stroke="#100000" mask="url(#stroke4_0_1)"/>
+</g>
+<text id="num38" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="375" y="467.591">38</tspan></text>
+<text id="num37" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="373" y="563.591">37</tspan></text>
+<text id="num36" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="374" y="666.591">36</tspan></text>
+<path id="39" d="M756.279 451.606V501.751H660.495V451.606H756.279Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="40" d="M1002.4 449.976V502.747H906.584V449.976H1002.4Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="45" d="M1753 449V503H1640V449H1753Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="41" d="M1473.05 450V502.77L1149 502.77V450L1473.05 450Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="34" d="M369.587 941.285H422.364V994.055H369.587V941.285Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="Rectangle 34" d="M1249.85 1218.77H1344.36V1261.1H1249.85V1218.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C89" d="M1250 1219H1344V1262H1250V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C93" d="M1524 1219H1619V1262H1524V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="TOKENS" d="M1549 1264H1660V1306H1549V1264Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="PHOTOBOOTH" d="M1249 1507H1328V1584H1249V1507Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="23" d="M1819 1127H1876V1261H1819V1127Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="22" d="M1819 1263H1876V1356H1819V1263Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C90" d="M1346 1219H1441V1262H1346V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C91" d="M1443 1219H1481V1262H1443V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C92" d="M1483 1219H1522V1262H1483V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C40" d="M471 721H509.43V759.426H471V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C42" d="M507.5 631H545.93V669.426H507.5V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C41" d="M467 631.059H505.43V669.485H467V631.059Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C43" d="M547.93 631H586.36V669.426H547.93V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C74" d="M547 592H585.43V630.426H547V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C75" d="M507 592H545.43V630.426H507V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C44" d="M588 631.059H667V669.059H588V631.059Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C71" d="M669 592H708V630H669V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C72" d="M627 592H667V630H627V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C70" d="M710 592H748.43V630.426H710V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C47" d="M750.082 631H788.512V669.426H750.082V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C46" d="M710 631H748V669H710V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C69" d="M750 592H829V630H750V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C9" d="M1004.66 591.515H1043.09V629.941H1004.66V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C66" d="M1045.09 591.515H1083.52V629.941H1045.09V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C65" d="M1085.52 591.515H1123.95V629.941H1085.52V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C52" d="M1125.95 631.941H1164.38V670.367H1125.95V631.941Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C13" d="M1004.66 761.042H1043.09V799.468H1004.66V761.042Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C71_2" d="M1086 761H1124.43V799.426H1086V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C14" d="M1045 761H1084V799H1045V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C29" d="M1045 721H1124V759H1045V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C28" d="M1125.95 720.617H1164.38V759.042H1125.95V720.617Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C27" d="M1166.38 720.617H1204.81V759.042H1166.38V720.617Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C26" d="M1206.81 720.617H1245.24V759.042H1206.81V720.617Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C19" d="M1369 761H1447V799H1369V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C53" d="M1166.38 631.941H1204.81V670.367H1166.38V631.941Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C64" d="M1126 592H1164.43V630.426H1126V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C62" d="M1247 592H1286V630H1247V592Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C61" d="M1287.67 591.515H1326.1V629.941H1287.67V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C60" d="M1328.1 591.515H1366.53V629.941H1328.1V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C59" d="M1368.53 591.515H1406.96V629.941H1368.53V591.515Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C83" d="M1625 679H1703V717H1625V679Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C77" d="M1625 640H1664V677H1625V640Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C78" d="M1665 640H1743V677H1665V640Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C79" d="M1745 640H1783.43V678.426H1745V640Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C82" d="M1705.02 678.887H1743.45V717.313H1705.02V678.887Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C80" d="M1785.43 640H1823.86V678.426H1785.43V640Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C81" d="M1745 679H1824V717H1745V679Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C20" d="M1449 721H1488V799H1449V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C21" d="M1408.96 720.617H1447.39V759.042H1408.96V720.617Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C56" d="M1369 631H1407.43V669.426H1369V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C55" d="M1288 632H1367V670H1288V632Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C49" d="M871 631.059H950V669.059H871V631.059Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C39" d="M511 721H549.43V759.426H511V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C38" d="M551 721H589.43V759.426H551V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C73" d="M587 592H625.209V630.484H587V592Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C48" d="M790.512 631H869.373V669.426H790.512V631Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C68" d="M831 591.516H950V629.941H831V591.516Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C63" d="M1166 592H1244.86V630.426H1166V592Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C54" d="M1206.81 631.941H1286V670.366H1206.81V631.941Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C30" d="M1004.66 720.616H1043V759.042H1004.66V720.616Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C25" d="M1247.24 720.616H1286V759.042H1247.24V720.616Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C24" d="M1287 721H1326V759.426H1287V721Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C18" d="M1287.67 761.042H1367V799.468H1287.67V761.042Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C23" d="M1328 721H1366.9V759.426H1328V721Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C22" d="M1368 721H1406.9V759.426H1368V721Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C57" d="M1409 631H1487.86V669.426H1409V631Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C58" d="M1408.96 591.515H1487.82V629.941H1408.96V591.515Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="C50">
+<path d="M1085 630.941V671.366L1057.89 671.367H1003.66V630.941H1085Z" fill="white"/>
+<mask id="stroke5_0_1" fill="white">
+<path d="M1085 630.941V671.366L1057.89 671.367H1003.66V630.941H1085Z"/>
+</mask>
+<path d="M1085 630.941V671.366L1057.89 671.367H1003.66V630.941H1085Z" stroke-width="4" stroke="black" mask="url(#stroke5_0_1)"/>
+</g>
+<path id="C16" d="M1125.95 761.042H1205V799.468H1125.95V761.042Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C45" d="M669 631H707.779V669.425H669V631Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C76" d="M467 592H505.5V630.426H467V592Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C35" d="M711 721H786.86V759.426H711V721Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C37" d="M591 721H669V759.426H591V721Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="C94" d="M1621 1219H1660V1262H1621V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B7" d="M2192 1757H2230.43V1799.34H2192V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B6" d="M2232.43 1757H2270.86V1799.34H2232.43V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B5" d="M2272.86 1757H2311.29V1799.34H2272.86V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B4" d="M2313.29 1757H2351.72V1799.34H2313.29V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B3" d="M2353.72 1757H2392.15V1799.34H2353.72V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B2" d="M2394.15 1757H2432.58V1799.34H2394.15V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B1" d="M2434 1757H2511V1799H2434V1757Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B27" d="M2461 1596.28H2500V1672.28H2461V1596.28Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A10" d="M2716.4 1654.21H2754.83V1692.64H2716.4V1654.21Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A11" d="M2716.4 1614.29H2754.83V1652.71H2716.4V1614.29Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A1" d="M2846 1766H2924.86V1804.43H2846V1766Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A4" d="M3083.91 1765.02H3162.77V1803.45H3083.91V1765.02Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A5" d="M3164.58 1765.02H3203.01V1803.45H3164.58V1765.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A12" d="M2716.4 1574.36H2754.83V1612.79H2716.4V1574.36Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A13" d="M2716.4 1534.44H2754.83V1572.87H2716.4V1534.44Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A15" d="M2717.22 1276.53H2755.65V1314.96H2717.22V1276.53Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A28" d="M2844.89 1267.02H2888.54V1310.66H2844.89V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A67" d="M3057.65 1374.34H3101.29V1417.98H3057.65V1374.34Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A61" d="M3057.65 1662.54H3101.29V1706.18H3057.65V1662.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A3" d="M3038.28 1760.13H3081.92V1803.77H3038.28V1760.13Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A42" d="M2890.54 1267.02H2934.19V1310.66H2890.54V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A22" d="M2844.89 1019.24H2888.54V1062.89H2844.89V1019.24Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A16" d="M2717.22 1236.11H2755.65V1274.53H2717.22V1236.11Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A17" d="M2717.22 1195.68H2755.65V1234.11H2717.22V1195.68Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A25" d="M2851 1146H2889V1184H2851V1146Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A45" d="M2890.54 1145.74H2928.97V1184.16H2890.54V1145.74Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A44" d="M2890.54 1186.16H2928.97V1224.59H2890.54V1186.16Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A43" d="M2890.54 1226.59H2928.97V1265.02H2890.54V1226.59Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A64" d="M3057.65 1500.83H3096.08V1539.26H3057.65V1500.83Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A63" d="M3057.65 1541.26H3096.08V1579.68H3057.65V1541.26Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A56" d="M3017.22 1460H3056.11V1498.63H3017.22V1460Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A57" d="M3017.22 1500.63H3056.11V1539.26H3017.22V1500.63Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A65" d="M3057.11 1460H3096.11V1499H3057.11V1460Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="a55">
+<path d="M3056.65 1418.19H3057V1459H3016.11V1419.18H3011V1373.34H3056.65V1418.19Z" fill="white"/>
+<mask id="stroke6_0_1" fill="white">
+<path d="M3056.65 1418.19H3057V1459H3016.11V1419.18H3011V1373.34H3056.65V1418.19Z"/>
+</mask>
+<path d="M3056.65 1418.19H3057V1459H3016.11V1419.18H3011V1373.34H3056.65V1418.19Z" stroke-width="4" stroke="black" mask="url(#stroke6_0_1)"/>
+</g>
+<path id="A66" d="M3057.11 1420H3096.11V1459H3057.11V1420Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A62" d="M3057.65 1581.68H3096.08V1660.54H3057.65V1581.68Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A89" d="M3224.59 1622.11H3263.01V1660.54H3224.59V1622.11Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A90" d="M3224.59 1581.68H3263.02V1620.11H3224.59V1581.68Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A59" d="M3017.22 1581.68H3055.65V1620.11H3017.22V1581.68Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="Union">
+<path d="M3056.65 1707.18H3011V1661.54H3016.22V1621.11H3056.65V1661.54H3056.65V1707.18Z" fill="white"/>
+<mask id="stroke7_0_1" fill="white">
+<path d="M3056.65 1707.18H3011V1661.54H3016.22V1621.11H3056.65V1661.54H3056.65V1707.18Z"/>
+</mask>
+<path d="M3056.65 1707.18H3011V1661.54H3016.22V1621.11H3056.65V1661.54H3056.65V1707.18Z" stroke-width="4" stroke="black" mask="url(#stroke7_0_1)"/>
+</g>
+<path id="A58" d="M3017.22 1541.26H3055.65V1579.68H3017.22V1541.26Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A87" d="M3178.94 1662.54H3222.59V1706.18H3178.94V1662.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A88" d="M3224.59 1662.54H3268.23V1706.18H3224.59V1662.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A94" d="M3224.59 1419.98H3263.01V1458.41H3224.59V1419.98Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A95" d="M3224.59 1374.34H3268.23V1417.98H3224.59V1374.34Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A93" d="M3224.59 1460.41H3263.02V1498.83H3224.59V1460.41Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A81">
+<path d="M3223.59 1459.41H3183.15V1418.98H3177.94V1373.34H3223.59V1459.41Z" fill="white"/>
+<mask id="stroke8_0_1" fill="white">
+<path d="M3223.59 1459.41H3183.15V1418.98H3177.94V1373.34H3223.59V1459.41Z"/>
+</mask>
+<path d="M3223.59 1459.41H3183.15V1418.98H3177.94V1373.34H3223.59V1459.41Z" stroke-width="4" stroke="black" mask="url(#stroke8_0_1)"/>
+</g>
+<path id="A92" d="M3224.59 1500.83H3263.02V1539.26H3224.59V1500.83Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A91" d="M3224.59 1541.26H3263.02V1579.68H3224.59V1541.26Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A83" d="M3184.15 1500.83H3222.59V1539.26H3184.15V1500.83Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A82" d="M3184.15 1460.41H3222.58V1498.83H3184.15V1460.41Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A85" d="M3184.15 1581.68H3222.58V1620.11H3184.15V1581.68Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A54" d="M3184.15 1622.11H3222.58V1660.54H3184.15V1622.11Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A84" d="M3184.15 1541.26H3222.58V1579.68H3184.15V1541.26Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A27" d="M2851 1228H2889.43V1265.02H2851V1228Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A23" d="M2851 1064.89H2888.54V1103.44H2851V1064.89Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="A47">
+<path d="M2929.97 1104.31H2889.54V1018.25H2935.19V1063.89H2929.97V1104.31Z" fill="white"/>
+<mask id="stroke9_0_1" fill="white">
+<path d="M2929.97 1104.31H2889.54V1018.25H2935.19V1063.89H2929.97V1104.31Z"/>
+</mask>
+<path d="M2929.97 1104.31H2889.54V1018.25H2935.19V1063.89H2929.97V1104.31Z" stroke-width="4" stroke="black" stroke-opacity="0.99" mask="url(#stroke9_0_1)"/>
+</g>
+<path id="A24" d="M2851 1105.44H2888.54V1144H2851V1105.44Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A46" d="M2890.54 1105.31H2928.97V1143.74H2890.54V1105.31Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A115" d="M3345.71 1267.02H3389.36V1310.66H3345.71V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A129" d="M3391.35 1267.02H3435V1310.66H3391.35V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A109" d="M3345.71 1019.24H3389.36V1062.89H3345.71V1019.24Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A108" d="M3427.99 887.51H3471.63V931.152H3427.99V887.51Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A105" d="M3301.48 887.51H3345.13V931.152H3301.48V887.51Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A104" d="M3172.43 885.065H3216.08V928.707H3172.43V885.065Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A102" d="M3086.35 885.065H3130V928.707H3086.35V885.065Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A112" d="M3350.92 1145.74H3389.35V1184.16H3350.92V1145.74Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="Rectangle 216" d="M3391.35 1145.74H3429.79V1184.16H3391.35V1145.74Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A131" d="M3391.35 1145.74H3429.79V1184.16H3391.35V1145.74Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="133">
+<path d="M3430.79 1104.31H3390.36V1018.25H3436V1063.89H3430.79V1104.31Z" fill="white"/>
+<mask id="stroke10_0_1" fill="white">
+<path d="M3430.79 1104.31H3390.36V1018.25H3436V1063.89H3430.79V1104.31Z"/>
+</mask>
+<path d="M3430.79 1104.31H3390.36V1018.25H3436V1063.89H3430.79V1104.31Z" stroke-width="4" stroke="black" mask="url(#stroke10_0_1)"/>
+</g>
+<path id="A130" d="M3391 1186H3430V1265H3391V1186Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A114" d="M3350.92 1226.59H3389.35V1265.02H3350.92V1226.59Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A113" d="M3350.92 1186.16H3389.35V1224.59H3350.92V1186.16Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A110" d="M3350.92 1064.89H3389.35V1103.31H3350.92V1064.89Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A132" d="M3391.35 1105.31H3429.79V1143.74H3391.35V1105.31Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A135" d="M3558.29 969.691H3596.72V1008.12H3558.29V969.691Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A137" d="M3558 1091H3597V1170H3558V1091Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A136" d="M3558 1010H3597V1089H3558V1010Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A134" d="M3558.29 887.51H3596.72V967.691H3558.29V887.51Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A106" d="M3347.13 925.935V887.51H3385.56V925.935H3347.13Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A107" d="M3387.56 925.935V887.51H3425.99V925.935H3387.56Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A138" d="M3558.29 1171.82H3596.72V1250.67H3558.29V1171.82Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A111" d="M3350.92 1105.31H3389.35V1143.74H3350.92V1105.31Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="A139">
+<path d="M3597.72 1337.74H3552.08V1292.1H3557.29V1251.67H3597.72V1337.74Z" fill="white"/>
+<mask id="stroke11_0_1" fill="white">
+<path d="M3597.72 1337.74H3552.08V1292.1H3557.29V1251.67H3597.72V1337.74Z"/>
+</mask>
+<path d="M3597.72 1337.74H3552.08V1292.1H3557.29V1251.67H3597.72V1337.74Z" stroke-width="4" stroke="black" mask="url(#stroke11_0_1)"/>
+</g>
+<path id="A123" d="M3345.88 1662.54H3389.52V1706.18H3345.88V1662.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A124" d="M3391.52 1662.54H3435.17V1706.18H3391.52V1662.54Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A116" d="M3345.88 1374.34H3389.52V1417.98H3345.88V1374.34Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A79" d="M3351.09 1500.83H3389.52V1539.26H3351.09V1500.83Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A128">
+<path d="M3430.95 1459.41H3390.52V1373.34H3436.17V1418.98H3430.95V1459.41Z" fill="white"/>
+<mask id="stroke12_0_1" fill="white">
+<path d="M3430.95 1459.41H3390.52V1373.34H3436.17V1418.98H3430.95V1459.41Z"/>
+</mask>
+<path d="M3430.95 1459.41H3390.52V1373.34H3436.17V1418.98H3430.95V1459.41Z" stroke-width="4" stroke="black" mask="url(#stroke12_0_1)"/>
+</g>
+<path id="A126" d="M3391.52 1541.26H3429.95V1579.68H3391.52V1541.26Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A121" d="M3351.11 1581H3390.11V1620H3351.11V1581Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A122" d="M3351.11 1622H3389.11V1661H3351.11V1622Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A6" d="M3205 1765.02H3243.74V1803.76H3205V1765.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A8" d="M3286 1765H3324V1803H3286V1765Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A9">
+<path d="M3410.5 1803.96H3365.35V1804.45H3324.92V1764.02H3364.85V1758.32H3410.5V1803.96Z" fill="white"/>
+<mask id="stroke13_0_1" fill="white">
+<path d="M3410.5 1803.96H3365.35V1804.45H3324.92V1764.02H3364.85V1758.32H3410.5V1803.96Z"/>
+</mask>
+<path d="M3410.5 1803.96H3365.35V1804.45H3324.92V1764.02H3364.85V1758.32H3410.5V1803.96Z" stroke-width="4" stroke="black" mask="url(#stroke13_0_1)"/>
+</g>
+<path id="A142" d="M3558 1682H3597V1804H3558V1682Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A141" d="M3558 1641H3597V1680H3558V1641Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A140">
+<path d="M3597.72 1640.28H3557.29V1519H3552.08V1473.36H3597.72V1640.28Z" fill="white"/>
+<mask id="stroke14_0_1" fill="white">
+<path d="M3597.72 1640.28H3557.29V1519H3552.08V1473.36H3597.72V1640.28Z"/>
+</mask>
+<path d="M3597.72 1640.28H3557.29V1519H3552.08V1473.36H3597.72V1640.28Z" stroke-width="4" stroke="black" mask="url(#stroke14_0_1)"/>
+</g>
+<path id="A125" d="M3391.11 1581H3430.54V1661H3391.11V1581Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A120" d="M3351.09 1541.26H3389.52V1579.68H3351.09V1541.26Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="A127">
+<path d="M3430.95 1540.26H3390.52V1459.41H3430.95V1499.83H3430.95V1540.26Z" fill="white"/>
+<mask id="stroke15_0_1" fill="white">
+<path d="M3430.95 1540.26H3390.52V1459.41H3430.95V1499.83H3430.95V1540.26Z"/>
+</mask>
+<path d="M3430.95 1540.26H3390.52V1459.41H3430.95V1499.83H3430.95V1540.26Z" stroke-width="4" stroke="black" mask="url(#stroke15_0_1)"/>
+</g>
+<path id="A118" d="M3351.09 1460.41H3389.52V1498.83H3351.09V1460.41Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A117" d="M3351.09 1419.98H3389.52V1458.41H3351.09V1419.98Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A80" d="M3178.77 1267.02H3222.42V1310.66H3178.77V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A96" d="M3224.42 1267.02H3268.06V1310.66H3224.42V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A75" d="M3178.77 1019.24H3222.42V1062.89H3178.77V1019.24Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A78" d="M3184 1146H3222V1225H3184V1146Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A79_2" d="M3183.99 1226.59H3222.42V1265.02H3183.99V1226.59Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A98" d="M3224 1186H3263V1225H3224V1186Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A99">
+<path d="M3263.85 1185H3223.42V1144.74H3263.85L3263.85 1164.87V1185Z" fill="white"/>
+<mask id="stroke16_0_1" fill="white">
+<path d="M3263.85 1185H3223.42V1144.74H3263.85L3263.85 1164.87V1185Z"/>
+</mask>
+<path d="M3263.85 1185H3223.42V1144.74H3263.85L3263.85 1164.87V1185Z" stroke-width="4" stroke="black" mask="url(#stroke16_0_1)"/>
+</g>
+<path id="A77" d="M3183.99 1105.31H3222.42V1143.74H3183.99V1105.31Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A76" d="M3183.99 1064.89H3222.42V1103.31H3183.99V1064.89Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A103" d="M3132 885.065H3170.43V923.491H3132V885.065Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A21" d="M2950.79 885.065H2994.43V928.707H2950.79V885.065Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="A20">
+<path d="M2949.79 884.065V924.491H2909.36V929.707H2863.71V884.065H2949.79Z" fill="white"/>
+<mask id="stroke17_0_1" fill="white">
+<path d="M2949.79 884.065V924.491H2909.36V929.707H2863.71V884.065H2949.79Z"/>
+</mask>
+<path d="M2949.79 884.065V924.491H2909.36V929.707H2863.71V884.065H2949.79Z" stroke-width="4" stroke="black" mask="url(#stroke17_0_1)"/>
+</g>
+<path id="A100" d="M3224.42 1105.31H3262.85V1143.74H3224.42V1105.31Z" fill="white" stroke-width="2" stroke="black"/>
+<g id="A101">
+<path d="M3263.85 1104.31H3223.42V1018.24H3269.06V1063.89H3263.85V1104.31Z" fill="white"/>
+<mask id="stroke18_0_1" fill="white">
+<path d="M3263.85 1104.31H3223.42V1018.24H3269.06V1063.89H3263.85V1104.31Z"/>
+</mask>
+<path d="M3263.85 1104.31H3223.42V1018.24H3269.06V1063.89H3263.85V1104.31Z" stroke-width="4" stroke="black" mask="url(#stroke18_0_1)"/>
+</g>
+<path id="A54_2" d="M3011.83 1267.02H3055.48V1310.66H3011.83V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A68" d="M3057.48 1267.02H3101.13V1310.66H3057.48V1267.02Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A45_2" d="M3012 1019H3055V1063H3012V1019Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A71" d="M3057.48 1145.74H3095.91V1184.16H3057.48V1145.74Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A70" d="M3057.48 1186.16H3095.91V1224.59H3057.48V1186.16Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A69" d="M3057.48 1226.59H3095.91V1265.02H3057.48V1226.59Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A73" d="M3057.48 1064.89H3095.91V1103.31H3057.48V1064.89Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A72" d="M3057.48 1105.31H3095.91V1143.74H3057.48V1105.31Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A49" d="M3017 1065H3056V1103H3017V1065Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A74" d="M3057 1019H3101V1063H3057V1019Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A14" d="M2716.4 1455.41H2754.83V1532.95H2716.4V1455.41Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="B28" d="M2461 1527.28H2500V1594.28H2461V1527.28Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B29" d="M2461 1486.28H2500V1526.28H2461V1486.28Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B34" d="M2461.07 1446H2499.5V1484.43H2461.07V1446Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B26" d="M2351 1648.13H2389.43V1686.55H2351V1648.13Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B25" d="M2351 1607.7H2389.43V1646.13H2351V1607.7Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B24" d="M2351 1567.28H2389.43V1605.7H2351V1567.28Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B23" d="M2351 1526.85H2389.43V1565.28H2351V1526.85Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B22" d="M2351 1486.43H2389.43V1524.85H2351V1486.43Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B21" d="M2351 1446H2389.43V1484.43H2351V1446Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B17" d="M2231.9 1593H2271.34V1672.28H2231.9V1593Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="B18" d="M2231.9 1528H2270.9V1591H2231.9V1528Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B19" d="M2231.9 1487H2270.9V1526H2231.9V1487Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B20" d="M2232.43 1447H2270.86V1485.43H2232.43V1447Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B11" d="M2120.43 1532H2082V1447H2120.43V1532Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="B10" d="M2120.43 1571.43H2082V1533H2120.43V1571.43Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B9" d="M2120.43 1611.85H2082V1573.43H2120.43V1611.85Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B8" d="M2120.43 1652.28H2082V1613.85H2120.43V1652.28Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B13" d="M2192 1487.14H2230.43V1566H2192V1487.14Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="B16" d="M2192 1648.85H2230.43V1687.27H2192V1648.85Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B15" d="M2192 1608.42H2230.43V1646.85H2192V1608.42Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B14" d="M2192 1568H2230.43V1606.42H2192V1568Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B12" d="M2192 1447H2230.43V1485.43H2192V1447Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C88" d="M1841 801H1879.43V843.338H1841V801Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B39" d="M2412 523H2531V566H2412V523Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B38" d="M2532.93 523.306H2571.37V565.644H2532.93V523.306Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C87" d="M1801 801H1839.43V843.338H1801V801Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C86" d="M1761 801H1799.43V843.338H1761V801Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="35" d="M369.587 706.63H422.364V939.36H369.587V706.63Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="12" d="M369.587 1199.57H422.364V1539.23H369.587V1199.57Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="11" d="M369.587 1541.23H422.364V1725.71H369.587V1541.23Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="32" d="M488.196 870.583H709.215V1087.66H488.196V870.583Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="13" d="M488.196 1218.77H709.215V1435.85H488.196V1218.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="16" d="M928.321 1437.85V1654.93H820.768V1437.85H928.321Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="14" d="M711 1219H928V1436H711V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="15" d="M488 1438H819V1655H488V1438Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="31" d="M711.215 870.583H932.234V1087.66H711.215V870.583Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="30" d="M1028 871H1137V979H1028V871Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="29" d="M1139 871H1248V979H1139V871Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="27" d="M1139 981H1248V1088H1139V981Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="28" d="M1028 981H1137V1088H1028V981Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="111" d="M1027 1219H1136V1326H1027V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="112" d="M1138 1219H1248V1326H1138V1219Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="17" d="M1027 1328H1248.02V1545.08H1027V1328Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="113" d="M1027 1546H1248V1655H1027V1546Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="26" d="M1249.85 870.583H1489.13V1087.66H1249.85V870.583Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="24" d="M1688.06 844.502H1880.39V1014.64H1688.06V844.502Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="Line 16" d="M368.513 1194.29L368.513 1809.81" stroke-width="4" stroke="#100000"/>
+<path id="Line 20" d="M368.513 1807.81H480.675" stroke-width="4" stroke="#100000"/>
+<path id="Arrow 1" d="M3679.89 1350.78H3682.39V1275.14H3679.89H3677.39V1350.78H3679.89ZM3681.66 1273.38C3680.68 1272.4 3679.1 1272.4 3678.12 1273.38L3662.21 1289.29C3661.23 1290.26 3661.23 1291.85 3662.21 1292.82C3663.19 1293.8 3664.77 1293.8 3665.75 1292.82L3679.89 1278.68L3694.03 1292.82C3695.01 1293.8 3696.59 1293.8 3697.57 1292.82C3698.54 1291.85 3698.54 1290.26 3697.57 1289.29L3681.66 1273.38Z" fill="#050000"/>
+<text id="num39" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="670" y="467.591">39</tspan></text>
+<text id="numC76" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="470" y="606.591">C76</tspan></text>
+<text id="numC75" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="511" y="605.591">C75</tspan></text>
+<text id="numC42" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="511" y="645.65">C42</tspan></text>
+<text id="numC41" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="468" y="645.65">C41</tspan></text>
+<text id="numC40" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="473" y="735.591">C40</tspan></text>
+<text id="numC39" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="514" y="734.591">C39</tspan></text>
+<text id="numC38" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="555" y="733.591">C38</tspan></text>
+<path id="C36" d="M671 721H709V759H671V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC36" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="672" y="734.591">C36</tspan></text>
+<path id="C34" d="M789 721H827.43V759.426H789V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC34" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="791" y="734.591">C34</tspan></text>
+<path id="C33" d="M829 721H867.43V759.426H829V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC33" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="831" y="734.591">C33</tspan></text>
+<path id="C32" d="M869 721H907.43V759.426H869V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC32" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="871" y="734.591">C32</tspan></text>
+<path id="C31" d="M909 721H947.43V759.426H909V721Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC31" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="911" y="734.591">C31</tspan></text>
+<path id="C12" d="M909 761H947.43V799.426H909V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC12" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="911" y="774.591">C12</tspan></text>
+<path id="C11" d="M870 761H908.43V799.426H870V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC11" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="872" y="774.591">C11</tspan></text>
+<path id="C10" d="M830 761H868.43V799.426H830V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC10" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="832" y="774.591">C10</tspan></text>
+<path id="C9_2" d="M790 761H828.43V799.426H790V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC9" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="792" y="774.591">C9</tspan></text>
+<path id="C8" d="M751 761H789.43V799.426H751V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC8" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="752" y="775.591">C8</tspan></text>
+<path id="C7" d="M711 761H749.43V799.426H711V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC7" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="713" y="774.591">C7</tspan></text>
+<path id="C6" d="M671 761H709.43V799.426H671V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC6" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="673" y="774.591">C6</tspan></text>
+<path id="C5" d="M631 761H669.43V799.426H631V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC5" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="633" y="774.591">C5</tspan></text>
+<path id="C4" d="M591 761H629V799H591V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC4" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="593" y="774.591">C4</tspan></text>
+<path id="C3" d="M551 761H589V799H551V761Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC3" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="553" y="774.591">C3</tspan></text>
+<path id="C2" d="M511 760H549V799H511V760Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="513" y="773.591">C2</tspan></text>
+<path id="C1" d="M471 760H509V799H471V760Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC1" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="473" y="773.591">C1</tspan></text>
+<text id="numC43" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="551" y="646.65">C43</tspan></text>
+<text id="numC44" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="591" y="646.65">C44</tspan></text>
+<text id="numC45" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="672" y="646.65">C45</tspan></text>
+<text id="numC37" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="594" y="734.591">C37</tspan></text>
+<text id="numC35" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="714" y="734.591">C35</tspan></text>
+<text id="numC13" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1008" y="776.591">C13</tspan></text>
+<text id="numC15" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1089" y="776.591">C15</tspan></text>
+<text id="numC14" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1047" y="776.591">C14</tspan></text>
+<text id="num30" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1031" y="884.591">30</tspan></text>
+<text id="num29" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1143" y="884.591">29</tspan></text>
+<text id="num27" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1145" y="996.591">27</tspan></text>
+<text id="num28" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1031" y="996.591">28</tspan></text>
+<text id="num26" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1254" y="884.591">26</tspan></text>
+<text id="numC30" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1008" y="735.591">C30</tspan></text>
+<text id="numC29" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1048" y="735.591">C29</tspan></text>
+<text id="numC28" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1129" y="735.591">C28</tspan></text>
+<text id="numC27" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1169" y="735.591">C27</tspan></text>
+<text id="numC26" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1210" y="735.591">C26</tspan></text>
+<text id="numC16" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1129" y="776.591">C16</tspan></text>
+<text id="numC25" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1250" y="735.591">C25</tspan></text>
+<text id="numC24" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1290" y="735.591">C24</tspan></text>
+<text id="numC23" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1330" y="735.591">C23</tspan></text>
+<text id="numC22" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1371" y="735.591">C22</tspan></text>
+<text id="numC18" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1291" y="776.591">C18</tspan></text>
+<path id="C17" d="M1206 761H1286V799.426H1206V761Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="numC17" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1209" y="776.591">C17</tspan></text>
+<text id="numC19" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1371" y="776.591">C19</tspan></text>
+<text id="numC21" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1412" y="735.591">C21</tspan></text>
+<text id="numC20" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1452" y="735.591">C20</tspan></text>
+<text id="num31" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="719" y="890.591">31</tspan></text>
+<text id="num32" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="495" y="890.591">32</tspan></text>
+<text id="num34" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="372" y="956.591">34</tspan></text>
+<text id="num33" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="373" y="1008.59">33</tspan></text>
+<text id="num35" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="373" y="719.591">35</tspan></text>
+<text id="numC47" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="753" y="646.65">C47</tspan></text>
+<text id="numC46" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="713" y="645.65">C46</tspan></text>
+<text id="numC48" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="793" y="646.65">C48</tspan></text>
+<text id="numC49" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="874" y="646.65">C49</tspan></text>
+<text id="numC74" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="550" y="605.591">C74</tspan></text>
+<text id="numC73" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="589" y="605.591">C73&#10;</tspan></text>
+<text id="numC71" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="670" y="604.591">C71</tspan></text>
+<text id="numC72" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="630" y="605.591">C72</tspan></text>
+<text id="numC70" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="711" y="604.591">C70</tspan></text>
+<text id="numC69" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="753" y="604.591">C69</tspan></text>
+<text id="numC68" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="833" y="604.591">C68</tspan></text>
+<text id="num40" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="912" y="464.591">40</tspan></text>
+<text id="numC9_2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1007" y="605.591">C67</tspan></text>
+<text id="numC66" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1048" y="605.591">C66</tspan></text>
+<text id="numC65" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1088" y="605.591">C65</tspan></text>
+<text id="numC63" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1171" y="605.591">C63</tspan></text>
+<text id="numC64" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1129.19" y="606.076">C64</tspan></text>
+<text id="num41" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1156" y="465.591">41</tspan></text>
+<text id="numC62" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1250" y="605.591">C62</tspan></text>
+<text id="numC61" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1289" y="605.591">C61</tspan></text>
+<text id="numC60" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1330" y="605.591">C60</tspan></text>
+<text id="numC59" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1372" y="605.591">C59</tspan></text>
+<text id="numC58" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1411" y="605.591">C58</tspan></text>
+<text id="num42" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1479" y="463.591">42</tspan></text>
+<text id="num43" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1534" y="463.591">43</tspan></text>
+<path id="44" d="M1585 449H1638V503H1585V449Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="num44" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1589" y="463.591">44</tspan></text>
+<text id="num45" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1645" y="465.591">45</tspan></text>
+<text id="num46" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1829" y="539.591">46</tspan></text>
+<text id="num47" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1887" y="537.591">47</tspan></text>
+<text id="num50" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1885" y="714.591">50</tspan></text>
+<text id="num52" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1999.45" y="708.359">52</tspan></text>
+<path id="61" d="M2228 796V1001H2175V796H2228Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num61" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2177.45" y="811.359">61</tspan></text>
+<text id="num59" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2176.67" y="640.359">59</tspan></text>
+<text id="num57" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2053.45" y="763.359">57</tspan></text>
+<text id="num53" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1999.45" y="869.359">53</tspan></text>
+<path id="58" d="M2052 693H2104.78V745.77H2052V693Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="num58" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2054.45" y="710.359">58</tspan></text>
+<path id="60" d="M2175 741H2228V794H2175V741Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="num60" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2177.45" y="758.265">60</tspan></text>
+<text id="num54" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1999.45" y="923.359">54</tspan></text>
+<text id="num55" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1999.45" y="978.359">55</tspan></text>
+<text id="num68" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1882" y="1141.59">68</tspan></text>
+<path id="69" d="M1879 1308H1931.78V1482.13H1879V1308Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num69" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1882" y="1324.59">69</tspan></text>
+<path id="70" d="M1879 1484H1931.78V1659.13H1879V1484Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num70" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1884" y="1499.59">70</tspan></text>
+<text id="num79" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2024.45" y="1125.49">79</tspan></text>
+<text id="num80" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2078.45" y="1179.49">80</tspan></text>
+<path id="78" d="M2022.45 1218.9H2075.45V1271.9H2022.45V1218.9Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="num78" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2024.13" y="1233.63">78</tspan></text>
+<text id="num81" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2078.45" y="1234.49">81</tspan></text>
+<text id="num77" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2024.45" y="1288.49">77</tspan></text>
+<text id="num76" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2024.45" y="1343.49">76</tspan></text>
+<text id="num82" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2078.45" y="1343.49">82</tspan></text>
+<text id="num74" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2031" y="1520.59">74</tspan></text>
+<text id="numB11" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2085" y="1462.59">B11</tspan></text>
+<text id="numB12" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2194.9" y="1460.87">B12</tspan></text>
+<text id="numB20" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2234.9" y="1460.87">B20</tspan></text>
+<text id="numB21" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353.05" y="1459.87">B21</tspan></text>
+<text id="numB22" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353.05" y="1500.87">B22</tspan></text>
+<text id="numB23" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353.05" y="1541.87">B23</tspan></text>
+<text id="numB24" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353" y="1581.59">B24</tspan></text>
+<text id="numB25" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353.05" y="1621.87">B25</tspan></text>
+<text id="numB26" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2353.05" y="1663.87">B26</tspan></text>
+<text id="numB30" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2464" y="1459.87">B30</tspan></text>
+<text id="num100" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2512" y="1460.59">100</tspan></text>
+<text id="num107" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2662" y="1469.59">107</tspan></text>
+<text id="num99" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2647" y="1339.59">99</tspan></text>
+<text id="num95" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2385.62" y="1178.32">95</tspan></text>
+<text id="num94" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2437.62" y="1180.32">94</tspan></text>
+<text id="num93" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2494.62" y="1180.32">93</tspan></text>
+<text id="num96" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2385.62" y="1124.32">96</tspan></text>
+<path id="90" d="M2540.11 1390.77H2383V1338H2540.11V1390.77Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="91" d="M2432.62 1336H2383V1283.04H2432.62V1336Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="91A" d="M2488.62 1336H2434.62V1283H2488.62V1336Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="92" d="M2539.62 1336H2490.62V1283H2539.62V1336Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num91" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2385.62" y="1296.59">91</tspan></text>
+<text id="num91a" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2438" y="1298.59">91A</tspan></text>
+<text id="num92" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2494.62" y="1298.59">92</tspan></text>
+<text id="num90" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2385.62" y="1352.32">90</tspan></text>
+<text id="num86" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2183.04" y="1123.8">86</tspan></text>
+<path id="87" d="M2236.04 1110.21H2288.81V1217.75H2236.04V1110.21Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num87" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2238.04" y="1123.8">87</tspan></text>
+<text id="num85" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2183.04" y="1233.8">85</tspan></text>
+<text id="num84" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2185.04" y="1290.8">84</tspan></text>
+<text id="num83" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2183.04" y="1344.8">83</tspan></text>
+<text id="num89" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2240.04" y="1345.8">89</tspan></text>
+<text id="num88" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2240.04" y="1234.8">88</tspan></text>
+<text id="num98" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2647" y="1284.59">98</tspan></text>
+<text id="num97" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2647" y="1121.59">97</tspan></text>
+<text id="numA17" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1209.59">A17</tspan></text>
+<path id="A18" d="M2717 1156H2755.43V1194.43H2717V1156Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA18" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1169.59">A18</tspan></text>
+<text id="numA16" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1250.59">A16</tspan></text>
+<text id="numA15" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1291.59">A15</tspan></text>
+<text id="numA14" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1470.59">A14</tspan></text>
+<text id="numA13" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1547.59">A13</tspan></text>
+<text id="numA12" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1589.59">A12</tspan></text>
+<text id="numA11" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1627.59">A11</tspan></text>
+<text id="numA10" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1668.59">A10</tspan></text>
+<text id="num108" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2719" y="1707.59">108</tspan></text>
+<text id="numA1" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2853" y="1780.59">A1</tspan></text>
+<text id="numA60" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3021" y="1638.59">A60</tspan></text>
+<path id="A2" d="M2927 1766H2965.43V1804.43H2927V1766Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2931" y="1782.59">A2</tspan></text>
+<text id="numA59" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3022" y="1596.59">A59</tspan></text>
+<text id="numA58" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3022" y="1557.59">A58</tspan></text>
+<text id="numA56" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3021" y="1475.59">A56</tspan></text>
+<text id="numA57" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3022" y="1515.59">A57</tspan></text>
+<text id="numA55" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3019" y="1391.59">A55</tspan></text>
+<text id="numA67" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3062" y="1389.59">A67</tspan></text>
+<text id="numA66" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1436.59">A66</tspan></text>
+<text id="numA65" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3061" y="1476.59">A65</tspan></text>
+<text id="numA64" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3062" y="1515.59">A64</tspan></text>
+<text id="numA63" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3061" y="1557.59">A63</tspan></text>
+<text id="numA62" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3062" y="1597.59">A62</tspan></text>
+<text id="numA61" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3061" y="1676.59">A61</tspan></text>
+<path id="A41" d="M2890.65 1374H2934.29V1417.64H2890.65V1374Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A36" d="M2890.65 1662.2H2934.29V1705.84H2890.65V1662.2Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A39" d="M2890.65 1500.49H2929.08V1538.92H2890.65V1500.49Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A38" d="M2890.65 1540.92H2929.08V1579.34H2890.65V1540.92Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A31" d="M2850.22 1459.66H2889.11V1539H2850.22V1459.66Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A30" d="M2850.11 1418.85H2889V1457.66H2850.11V1418.85Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A29" d="M2845 1374H2888.65V1417.84H2845V1374Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A40" d="M2890 1419H2929V1499H2890V1419Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A37" d="M2890.65 1581.34H2929.08V1660.2H2890.65V1581.34Z" fill="white" stroke-width="2" stroke="black"/>
+<path id="A33" d="M2850.22 1581.34H2888.65V1619.77H2850.22V1581.34Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A35" d="M2845 1662.2H2888.65V1705.84H2845V1662.2Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A34" d="M2850.22 1621.77H2888.65V1660.2H2850.22V1621.77Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A32" d="M2850.22 1540.92H2888.65V1579.34H2850.22V1540.92Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA34" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2853.11" y="1638.25">A34</tspan></text>
+<text id="numA35" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2849" y="1677.59">A35</tspan></text>
+<text id="numA33" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2854" y="1597.59">A33</tspan></text>
+<text id="numA32" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2854" y="1559.59">A32</tspan></text>
+<text id="numA31" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2855" y="1476.59">A31</tspan></text>
+<text id="numA29" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852" y="1390.59">A29</tspan></text>
+<text id="numA30" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2854" y="1433.59">A30</tspan></text>
+<text id="numA41" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2897" y="1388.59">A41</tspan></text>
+<text id="numA40" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2894" y="1433.59">A40</tspan></text>
+<text id="numA39" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2894" y="1516.59">A39</tspan></text>
+<text id="numA38" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2894" y="1557.59">A38</tspan></text>
+<text id="numA37" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2895" y="1597.59">A37</tspan></text>
+<text id="numA36" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2895" y="1678.59">A36</tspan></text>
+<text id="numA3" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3045" y="1774.59">A3</tspan></text>
+<text id="numA4" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3097" y="1778.59">A4</tspan></text>
+<text id="numA5" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3173" y="1779.59">A5</tspan></text>
+<text id="numA123" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3349.11" y="1674.59">A123</tspan></text>
+<text id="numA124" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393.11" y="1674.59">A124</tspan></text>
+<text id="numA122" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3352.69" y="1635.91">A122</tspan></text>
+<text id="numA125" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3394.12" y="1593.91">A125</tspan></text>
+<text id="numA121" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3352.69" y="1595.91">A121</tspan></text>
+<text id="numA126" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393.11" y="1554.59">A126</tspan></text>
+<text id="numA120" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353.11" y="1554.59">A120</tspan></text>
+<text id="numA119" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353.11" y="1513.59">A119&#10;</tspan></text>
+<text id="numA127" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393.11" y="1473.59">A127</tspan></text>
+<text id="numA117" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353.11" y="1432.59">A117</tspan></text>
+<text id="numA118" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353.11" y="1472.59">A118</tspan></text>
+<text id="numA116" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3349.11" y="1386.59">A116</tspan></text>
+<text id="numA128" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3395.11" y="1386.59">A128</tspan></text>
+<text id="numA139" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3557" y="1326.59">A139</tspan></text>
+<text id="numA138" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="1184.59">A138</tspan></text>
+<text id="numA137" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="1103.59">A137</tspan></text>
+<text id="numA136" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="1023.59">A136</tspan></text>
+<text id="numA135" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="982.591">A135</tspan></text>
+<text id="numA134" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="900.591">A134</tspan></text>
+<text id="numA108" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3431" y="900.591">A108</tspan></text>
+<text id="numA133" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393" y="1032.59">A133</tspan></text>
+<text id="numA132" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393" y="1118.59">A132</tspan></text>
+<text id="numA131" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393" y="1159.59">A131</tspan></text>
+<text id="numA130" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393" y="1199.59">A130</tspan></text>
+<text id="numA129" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3393" y="1279.59">A129</tspan></text>
+<text id="numA115" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3347" y="1280.59">A115</tspan></text>
+<text id="numA96" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226" y="1280.59">A96</tspan></text>
+<text id="numA98" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3225.58" y="1200">A98</tspan></text>
+<path id="A97" d="M3224 1227H3263V1265H3224V1227Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA97" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3225.58" y="1240">A97</tspan></text>
+<text id="numA99" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226" y="1159.59">A99</tspan></text>
+<text id="numA100" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226" y="1118.59">A100</tspan></text>
+<text id="numA101" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226" y="1032.59">A101</tspan></text>
+<text id="numA75" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3181" y="1032.59">A75</tspan></text>
+<text id="numA74" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1032.59">A74</tspan></text>
+<text id="numA73" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1078.59">A73</tspan></text>
+<text id="numA72" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1118.59">A72</tspan></text>
+<text id="numA48" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3014" y="1032.59">A48</tspan></text>
+<text id="numA49" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3020" y="1078.59">A49</tspan></text>
+<path id="A50" d="M3017 1105H3056V1143H3017V1105Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA50" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3020" y="1117.59">A50</tspan></text>
+<path id="A51" d="M3017 1145H3056V1184H3017V1145Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A52" d="M3017 1186H3056V1225H3017V1186Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="A53" d="M3017 1227H3056V1265H3017V1227Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA51" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3019" y="1159.59">A51</tspan></text>
+<text id="numA71" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1159.59">A71</tspan></text>
+<text id="numA70" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1200.59">A70</tspan></text>
+<text id="numA69" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1240.59">A69</tspan></text>
+<text id="numA68" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3060" y="1281.59">A68</tspan></text>
+<text id="numA54" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3013" y="1281.59">A54</tspan></text>
+<text id="numA52" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3020" y="1200.59">A52</tspan></text>
+<text id="numA53" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3019" y="1240.59">A53</tspan></text>
+<text id="numA76" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186" y="1077.59">A76</tspan></text>
+<text id="numA77" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186" y="1118.59">A77</tspan></text>
+<text id="numA78" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186" y="1159.59">A78</tspan></text>
+<text id="numA79" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186" y="1239.59">A79</tspan></text>
+<text id="numA80" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3182" y="1280.59">A80</tspan></text>
+<text id="numA114" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353" y="1241.59">A114</tspan></text>
+<text id="numA113" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353" y="1199.59">A113</tspan></text>
+<text id="numA111" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353" y="1118.59">A111</tspan></text>
+<text id="numA112" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353" y="1159.59">A112</tspan></text>
+<text id="numA110" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3353" y="1077.59">A110</tspan></text>
+<text id="numA109" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3348" y="1032.59">A109</tspan></text>
+<text id="numA106" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3349" y="900.591">A106</tspan></text>
+<text id="numA107" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3390" y="900.591">A107</tspan></text>
+<text id="numA105" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3305" y="900.591">A105</tspan></text>
+<text id="numA142" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3560" y="1696.59">A142</tspan></text>
+<text id="numA141" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3561" y="1653.59">A141</tspan></text>
+<text id="numA140" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3556" y="1486.59">A140</tspan></text>
+<text id="numA6" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3210" y="1778.59">A6</tspan></text>
+<path id="A7" d="M3245 1765H3284V1804H3245V1765Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA7" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3249" y="1778.59">A7</tspan></text>
+<text id="numA8" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3290" y="1778.59">A8</tspan></text>
+<text id="numA9" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3375" y="1772.59">A9</tspan></text>
+<text id="numA87" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3181.11" y="1677.59">A87</tspan></text>
+<text id="numA86" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186.11" y="1634.59">A86</tspan></text>
+<text id="numA89" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3227.11" y="1634.59">A89</tspan></text>
+<text id="numA85" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186.11" y="1594.59">A85</tspan></text>
+<text id="numA84" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186.11" y="1554.59">A84</tspan></text>
+<text id="numA82" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186.11" y="1473.59">A82</tspan></text>
+<text id="numA81" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3182.11" y="1387.59">A81</tspan></text>
+<text id="numA95" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3228.11" y="1387.59">A95</tspan></text>
+<text id="numA94" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3227.11" y="1433.59">A94</tspan></text>
+<text id="numA93" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226.11" y="1473.59">A93</tspan></text>
+<text id="numA92" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3227.11" y="1513.59">A92</tspan></text>
+<text id="numA83" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3186.11" y="1513.59">A83</tspan></text>
+<text id="numA91" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3226.11" y="1554.59">A91</tspan></text>
+<text id="numA90" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3227.11" y="1593.59">A90</tspan></text>
+<text id="numA88" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3227.11" y="1676.59">A88</tspan></text>
+<text id="num109" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2720" y="1331.59">109</tspan></text>
+<path id="A19" d="M2717 1102H2769.78V1154.77H2717V1102Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA19" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2719.78" y="1116.63">A19</tspan></text>
+<text id="numA22" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2847" y="1033.59">A22</tspan></text>
+<text id="numA23" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852" y="1078.59">A23</tspan></text>
+<text id="numA45" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1160.59">A45</tspan></text>
+<text id="numA25" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852" y="1160.59">A25</tspan></text>
+<text id="numA24" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852" y="1118.59">A24</tspan></text>
+<text id="numA46" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1118.59">A46</tspan></text>
+<text id="numA27" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852" y="1240.59">A27</tspan></text>
+<text id="numA28" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2847" y="1281.59">A28</tspan></text>
+<text id="numA42" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1281.59">A42</tspan></text>
+<text id="numA43" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1240.59">A43</tspan></text>
+<text id="numA44" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1200.59">A44</tspan></text>
+<path id="A26" d="M2851 1186H2889V1226H2851V1186Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numA26" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2852.46" y="1201.43">A26</tspan></text>
+<text id="numA47" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2892" y="1033.59">A47</tspan></text>
+<path id="B40" d="M2497 614H2540.65V657.642H2497V614Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B37" d="M2542.65 614H2586.29V657.642H2542.65V614Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B41" d="M2502 659H2541V698H2502V659Z" fill="white" stroke-width="2" stroke="#170101"/>
+<g id="B36">
+<path d="M2583 740H2542V658H2583V699H2583V740Z" fill="white"/>
+<mask id="stroke19_0_1" fill="white">
+<path d="M2583 740H2542V658H2583V699H2583V740Z"/>
+</mask>
+<path d="M2583 740H2542V658H2583V699H2583V740Z" stroke-width="4" stroke="black" mask="url(#stroke19_0_1)"/>
+</g>
+<text id="numB40" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2502" y="628.591">B40</tspan></text>
+<text id="numB36" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2545" y="673.591">B36</tspan></text>
+<g id="B44">
+<path d="M2542 863H2501V781H2542V822H2542V863Z" fill="white"/>
+<mask id="stroke20_0_1" fill="white">
+<path d="M2542 863H2501V781H2542V822H2542V863Z"/>
+</mask>
+<path d="M2542 863H2501V781H2542V822H2542V863Z" stroke-width="4" stroke="black" mask="url(#stroke20_0_1)"/>
+</g>
+<text id="numB44" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="796.591">B44</tspan></text>
+<g id="B45">
+<path d="M2542 945H2501V863H2542V904H2542V945Z" fill="white"/>
+<mask id="stroke21_0_1" fill="white">
+<path d="M2542 945H2501V863H2542V904H2542V945Z"/>
+</mask>
+<path d="M2542 945H2501V863H2542V904H2542V945Z" stroke-width="4" stroke="black" mask="url(#stroke21_0_1)"/>
+</g>
+<text id="numB45" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="878.591">B45</tspan></text>
+<g id="B32">
+<path d="M2583 986H2542V904H2583V945H2583V986Z" fill="white"/>
+<mask id="stroke22_0_1" fill="white">
+<path d="M2583 986H2542V904H2583V945H2583V986Z"/>
+</mask>
+<path d="M2583 986H2542V904H2583V945H2583V986Z" stroke-width="4" stroke="black" mask="url(#stroke22_0_1)"/>
+</g>
+<text id="numB32" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2545" y="919.591">B32</tspan></text>
+<g id="B34_2">
+<path d="M2583 863H2542V781H2583V822H2583V863Z" fill="white"/>
+<mask id="stroke23_0_1" fill="white">
+<path d="M2583 863H2542V781H2583V822H2583V863Z"/>
+</mask>
+<path d="M2583 863H2542V781H2583V822H2583V863Z" stroke-width="4" stroke="black" mask="url(#stroke23_0_1)"/>
+</g>
+<text id="numB34" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2545" y="796.591">B34</tspan></text>
+<text id="numB41" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="673.591">B41</tspan></text>
+<path id="B42" d="M2502 700H2541V739H2502V700Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB42" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="714.591">B42</tspan></text>
+<path id="B43" d="M2502 741H2541V780H2502V741Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB43" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="755.591">B43</tspan></text>
+<path id="B35" d="M2543 741H2582V780H2543V741Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB35" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2545" y="755.591">B35</tspan></text>
+<path id="B33" d="M2543 864H2582V903H2543V864Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB33" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2545" y="878.591">B33</tspan></text>
+<path id="B46" d="M2502 946H2541V985H2502V946Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB46" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2504" y="960.591">B46</tspan></text>
+<text id="numB37" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2547" y="628.591">B37</tspan></text>
+<path id="B47" d="M2497 987H2540.65V1030.64H2497V987Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="B31" d="M2542.65 987H2586.29V1030.64H2542.65V987Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numB47" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2499" y="1001.59">B47</tspan></text>
+<text id="numB31" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2544" y="1001.59">B31</tspan></text>
+<text id="num67" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2657" y="812.591">67</tspan></text>
+<text id="num110" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2713" y="898.591">110</tspan></text>
+<text id="numA20" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2867" y="898.591">A20&#10;</tspan></text>
+<text id="numA21" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2952" y="898.591">A21</tspan></text>
+<text id="numA102" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3087" y="898.591">A102</tspan></text>
+<text id="numA103" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3133" y="898.591">A103</tspan></text>
+<text id="numA104" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="3175" y="898.591">A104</tspan></text>
+<text id="num66" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2656" y="706.591">66</tspan></text>
+<text id="num65" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2657" y="650.591">65</tspan></text>
+<text id="num63" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2364" y="630.591">63</tspan></text>
+<path id="62" d="M2291 625V1001.18H2230V625H2291Z" fill="white" stroke-width="2" stroke="black"/>
+<text id="num62" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2234" y="643.591">62</tspan></text>
+<text id="num49" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2222" y="537.591">49</tspan></text>
+<text id="num64" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2657" y="539.591">64</tspan></text>
+<text id="numB38" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2535" y="537.591">B38</tspan></text>
+<text id="numB39" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2416" y="538.591">B39</tspan></text>
+<text id="num106" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2662" y="1526.59">106</tspan></text>
+<text id="num105" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2662" y="1583.59">105</tspan></text>
+<text id="num104" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2662" y="1707.59">104</tspan></text>
+<text id="num101" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2512" y="1516.59">101</tspan></text>
+<text id="num102" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2512" y="1571.59">102</tspan></text>
+<text id="numB29" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2464" y="1501.87">B29</tspan></text>
+<text id="numB28" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2464" y="1541.87">B28</tspan></text>
+<text id="numB27" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2464.22" y="1612.3">B27</tspan></text>
+<text id="numB19" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2234.9" y="1500.59">B19</tspan></text>
+<text id="numB18" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2234.9" y="1542.59">B18</tspan></text>
+<text id="numB17" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2234.9" y="1606.59">B17</tspan></text>
+<text id="numB15" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2193.9" y="1621.59">B15</tspan></text>
+<text id="numB16" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2194.9" y="1662.59">B16</tspan></text>
+<text id="numB7" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2194.69" y="1772.38">B7</tspan></text>
+<text id="numB6" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2235.69" y="1772.38">B6</tspan></text>
+<text id="numB5" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2276.69" y="1772.38">B5</tspan></text>
+<text id="numB4" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2316.69" y="1772.38">B4</tspan></text>
+<text id="numB3" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2355.69" y="1772.38">B3</tspan></text>
+<text id="numB2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2396.69" y="1772.38">B2</tspan></text>
+<text id="numB1" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2440" y="1772.59">B1</tspan></text>
+<text id="num103" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2516" y="1766.59">103</tspan></text>
+<text id="numB14" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2193.9" y="1582.59">B14</tspan></text>
+<text id="numB13" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2193.9" y="1501.59">B13</tspan></text>
+<text id="numB10" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2085" y="1546.59">B10</tspan></text>
+<path id="75" d="M2081 1500H2028V1447H2081V1500Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="num75" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2031" y="1463.59">75</tspan></text>
+<text id="numB9" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2085" y="1588.59">B9</tspan></text>
+<text id="numB8" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2085" y="1628.59">B8</tspan></text>
+<text id="num71" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1882" y="1673.59">71</tspan></text>
+<text id="num72" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1882" y="1729.59">72</tspan></text>
+<text id="num73" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2011" y="1766.59">73</tspan></text>
+<text id="num56" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2053.45" y="867.359">56</tspan></text>
+<text id="num51" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1885" y="872.591">51</tspan></text>
+<text id="num48" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="2048" y="537.591">48</tspan></text>
+<text id="numC81" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1748" y="695.591">C81</tspan></text>
+<text id="numC80" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1787" y="655.591">C80</tspan></text>
+<text id="numC79" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1747" y="655.591">C79</tspan></text>
+<text id="numC78" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1667" y="653.591">C78</tspan></text>
+<text id="numC77" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1628" y="653.591">C77</tspan></text>
+<text id="numC83" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1628" y="695.591">C83</tspan></text>
+<text id="num44_2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1630" y="862.591">25</tspan></text>
+<text id="num24" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1693" y="862.591">24</tspan></text>
+<text id="num23" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1824" y="1144.59">23</tspan></text>
+<text id="num22" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1824" y="1282.59">22</tspan></text>
+<text id="numC93" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1527.21" y="1236.83">C93</tspan></text>
+<text id="numC94" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1624.55" y="1237.06">C94</tspan></text>
+<text id="TOKENS_2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1553" y="1281.59">TOKENS</tspan></text>
+<text id="TOKENS_3" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1261" y="1540.59">PHOTO&#10;</tspan><tspan x="1261" y="1557.59">BOOTH</tspan></text>
+<path id="PHOTOBOOTH_2" d="M1250 1291H1329V1368H1250V1291Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="TOKENS_4" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1262" y="1324.59">PHOTO&#10;</tspan><tspan x="1262" y="1341.59">BOOTH</tspan></text>
+<path id="C95" d="M1838 1358H1876.43V1400.34H1838V1358Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC95" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1841" y="1375.59">C95</tspan></text>
+<path id="C96" d="M1838 1402H1876.43V1444.34H1838V1402Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC96" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1841" y="1419.59">C96</tspan></text>
+<path id="C97" d="M1838 1443H1876.43V1485.34H1838V1443Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC97" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1841" y="1460.59">C97</tspan></text>
+<path id="C98" d="M1838 1486H1876V1572H1838V1486Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC98" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1841" y="1503.59">C98</tspan></text>
+<path id="C99" d="M1838 1574H1876V1660H1838V1574Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC99" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1841" y="1591.59">C99</tspan></text>
+<text id="numC92" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1486.21" y="1236.83">C92</tspan></text>
+<text id="numC91" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1446.21" y="1236.83">C91</tspan></text>
+<text id="numC90" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1348" y="1236.59">C90</tspan></text>
+<text id="numC89" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1253" y="1236.59">C89</tspan></text>
+<text id="num111" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1032" y="1233.59">111</tspan></text>
+<text id="num112" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1142" y="1234.59">112</tspan></text>
+<text id="num17" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1032" y="1343.59">17</tspan></text>
+<text id="num17_2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1034" y="1562.59">113</tspan></text>
+<text id="num16" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="825" y="1459.59">16</tspan></text>
+<text id="num13" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="495" y="1238.59">13</tspan></text>
+<text id="num14" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="721" y="1238.59">14</tspan></text>
+<text id="num12" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="371" y="1212.59">12</tspan></text>
+<text id="num7" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="756" y="1768.59">7</tspan></text>
+<text id="num8" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="701" y="1768.59">8</tspan></text>
+<text id="num9" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="590" y="1768.59">9</tspan></text>
+<text id="num15" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="495" y="1459.59">15</tspan></text>
+<text id="num11" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="374" y="1559.59">11</tspan></text>
+<text id="num10" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="374" y="1745.59">10</tspan></text>
+<text id="num18" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1256" y="1617.59">18</tspan></text>
+<text id="num19" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1407" y="1617.59">19</tspan></text>
+<text id="num20" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1525" y="1617.59">20</tspan></text>
+<text id="num21" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1777" y="1678.59">21</tspan></text>
+<text id="num4" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1311" y="1765.59">4</tspan></text>
+<text id="num3" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1369" y="1767.59">3</tspan></text>
+<text id="num2" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1420" y="1765.59">2</tspan></text>
+<text id="num1" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1532" y="1767.59">1</tspan></text>
+<text id="num5" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1142" y="1767.59">5</tspan></text>
+<text id="num6" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1090" y="1767.59">6</tspan></text>
+<text id="numC87" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1805" y="817.591">C87</tspan></text>
+<path id="C84" d="M1627 801H1665.43V843.338H1627V801Z" fill="white" stroke-width="2" stroke="#170101"/>
+<path id="C85" d="M1665 801H1759V843H1665V801Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC84" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1631" y="818.591">C84</tspan></text>
+<text id="numC85" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1671" y="818.591">C85</tspan></text>
+<text id="numC86" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1764" y="817.591">C86</tspan></text>
+<text id="numC88" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1844" y="817.591">C88</tspan></text>
+<text id="numC82" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1709" y="695.591">C82</tspan></text>
+<text id="numC57" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1410" y="644.591">C57</tspan></text>
+<text id="numC56" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1371" y="644.591">C56</tspan></text>
+<text id="numC55" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1289" y="645.591">C55</tspan></text>
+<text id="numC54" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1208" y="645.591">C54</tspan></text>
+<text id="numC53" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1170" y="645.591">C53</tspan></text>
+<text id="numC52" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1128" y="645.591">C52</tspan></text>
+<path id="C51" d="M1086 631H1124V670H1086V631Z" fill="white" stroke-width="2" stroke="#170101"/>
+<text id="numC51" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1088" y="644.591">C51</tspan></text>
+<text id="numC50" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="1007" y="645.591">C50</tspan></text>
+<text id="Main Entrance" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="1488.32" y="2092.09">Main &#10;</tspan><tspan x="1456.24" y="2136.09">Entrance</tspan></text>
+<text id="OUTSIDE" fill="black" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="36" font-weight="bold" letter-spacing="0em"><tspan x="822.309" y="2455.09">OUTSIDE</tspan></text>
+<g id="Polygon 1">
+<path d="M999.759 1994.84L1033.19 2027.61L976.451 2035.01L999.759 1994.84Z" fill="#3F3D3C"/>
+<mask id="stroke24_0_1" fill="white">
+<path d="M999.759 1994.84L1033.19 2027.61L976.451 2035.01L999.759 1994.84Z"/>
+</mask>
+<path d="M999.759 1994.84L1001.16 1993.42L999.311 1991.61L998.024 1993.83L999.759 1994.84ZM1033.19 2027.61L1033.46 2029.59L1037.51 2029.06L1034.58 2026.19L1033.19 2027.61ZM976.451 2035.01L974.716 2034L972.673 2037.52L976.725 2037L976.451 2035.01ZM999.759 1994.84L998.361 1996.26L1031.79 2029.03L1033.19 2027.61L1034.58 2026.19L1001.16 1993.42L999.759 1994.84ZM1033.19 2027.61L1032.91 2025.63L976.176 2033.03L976.451 2035.01L976.725 2037L1033.46 2029.59L1033.19 2027.61ZM976.451 2035.01L978.185 2036.03L1001.49 1995.85L999.759 1994.84L998.024 1993.83L974.716 2034L976.451 2035.01Z" fill="black" mask="url(#stroke24_0_1)"/>
+</g>
+<g id="Polygon 2">
+<path d="M1105.16 2057.4L1071.34 2025.04L1127.98 2016.95L1105.16 2057.4Z" fill="#3F3D3C"/>
+<mask id="stroke25_0_1" fill="white">
+<path d="M1105.16 2057.4L1071.34 2025.04L1127.98 2016.95L1105.16 2057.4Z"/>
+</mask>
+<path d="M1105.16 2057.4L1103.78 2058.84L1105.65 2060.63L1106.91 2058.4L1105.16 2057.4ZM1071.34 2025.04L1071.04 2023.06L1067 2023.64L1069.96 2026.47L1071.34 2025.04ZM1127.98 2016.95L1129.73 2017.94L1131.73 2014.4L1127.69 2014.97L1127.98 2016.95ZM1105.16 2057.4L1106.54 2055.97L1072.72 2023.6L1071.34 2025.04L1069.96 2026.47L1103.78 2058.84L1105.16 2057.4ZM1071.34 2025.04L1071.64 2027.01L1128.28 2018.93L1127.98 2016.95L1127.69 2014.97L1071.04 2023.06L1071.34 2025.04ZM1127.98 2016.95L1126.24 2015.96L1103.42 2056.41L1105.16 2057.4L1106.91 2058.4L1129.73 2017.94L1127.98 2016.95Z" fill="black" mask="url(#stroke25_0_1)"/>
+</g>
+<text id="ENTRY/EXIT_2" fill="#0D0000" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="374" y="1172.27">ENTRY/EXIT</tspan></text>
+<g id="Polygon 20">
+<path d="M419.47 1101.19L382.324 1129.68L382.968 1072.46L419.47 1101.19Z" fill="#3F3D3C"/>
+<mask id="stroke26_0_1" fill="white">
+<path d="M419.47 1101.19L382.324 1129.68L382.968 1072.46L419.47 1101.19Z"/>
+</mask>
+<path d="M419.47 1101.19L420.679 1102.77L422.73 1101.2L420.715 1099.61L419.47 1101.19ZM382.324 1129.68L380.324 1129.67L380.278 1133.76L383.534 1131.26L382.324 1129.68ZM382.968 1072.46L384.213 1070.89L381.014 1068.37L380.968 1072.46L382.968 1072.46ZM419.47 1101.19L418.261 1099.6L381.115 1128.09L382.324 1129.68L383.534 1131.26L420.679 1102.77L419.47 1101.19ZM382.324 1129.68L384.324 1129.68L384.968 1072.47L382.968 1072.46L380.968 1072.46L380.324 1129.67L382.324 1129.68ZM382.968 1072.46L381.723 1074.04L418.225 1102.76L419.47 1101.19L420.715 1099.61L384.213 1070.89L382.968 1072.46Z" fill="black" mask="url(#stroke26_0_1)"/>
+</g>
+<g id="Polygon 21">
+<path d="M320.876 1161.35L358.083 1132.94L357.316 1190.15L320.876 1161.35Z" fill="#3F3D3C"/>
+<mask id="stroke27_0_1" fill="white">
+<path d="M320.876 1161.35L358.083 1132.94L357.316 1190.15L320.876 1161.35Z"/>
+</mask>
+<path d="M320.876 1161.35L319.67 1159.76L317.616 1161.33L319.628 1162.92L320.876 1161.35ZM358.083 1132.94L360.083 1132.95L360.137 1128.86L356.877 1131.35L358.083 1132.94ZM357.316 1190.15L356.068 1191.72L359.262 1194.24L359.316 1190.16L357.316 1190.15ZM320.876 1161.35L322.082 1162.93L359.289 1134.52L358.083 1132.94L356.877 1131.35L319.67 1159.76L320.876 1161.35ZM358.083 1132.94L356.083 1132.93L355.316 1190.14L357.316 1190.15L359.316 1190.16L360.083 1132.95L358.083 1132.94ZM357.316 1190.15L358.565 1188.58L322.124 1159.77L320.876 1161.35L319.628 1162.92L356.068 1191.72L357.316 1190.15Z" fill="black" mask="url(#stroke27_0_1)"/>
+</g>
+<g id="Polygon 18">
+<path d="M934.033 1815.28L906.109 1857.01L963.324 1856.53L934.033 1815.28Z" fill="#FB7AFF"/>
+<mask id="stroke28_0_1" fill="white">
+<path d="M934.033 1815.28L906.109 1857.01L963.324 1856.53L934.033 1815.28Z"/>
+</mask>
+<path d="M934.033 1815.28L932.368 1814.15L933.975 1811.75L935.661 1814.13L934.033 1815.28ZM906.109 1857.01L906.142 1859.01L902.334 1859.04L904.444 1855.89L906.109 1857.01ZM963.324 1856.53L964.952 1855.38L967.164 1858.5L963.357 1858.53L963.324 1856.53ZM934.033 1815.28L935.698 1816.4L907.774 1858.13L906.109 1857.01L904.444 1855.89L932.368 1814.15L934.033 1815.28ZM906.109 1857.01L906.076 1855.01L963.291 1854.53L963.324 1856.53L963.357 1858.53L906.142 1859.01L906.109 1857.01ZM963.324 1856.53L961.696 1857.68L932.405 1816.42L934.033 1815.28L935.661 1814.13L964.952 1855.38L963.324 1856.53Z" fill="black" mask="url(#stroke28_0_1)"/>
+</g>
+<text id="ENTRY/EXIT_3" fill="#0D0000" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="1684" y="2136.27">ENTRY/EXIT</tspan></text>
+<g id="Polygon 7">
+<path d="M1700.3 2070.89L1665.42 2102.11L1661.73 2045.01L1700.3 2070.89Z" fill="#3F3D3C"/>
+<mask id="stroke29_0_1" fill="white">
+<path d="M1700.3 2070.89L1665.42 2102.11L1661.73 2045.01L1700.3 2070.89Z"/>
+</mask>
+<path d="M1700.3 2070.89L1701.63 2072.38L1703.55 2070.65L1701.42 2069.22L1700.3 2070.89ZM1665.42 2102.11L1663.42 2102.25L1663.68 2106.33L1666.74 2103.59L1665.42 2102.11ZM1661.73 2045.01L1662.85 2043.34L1659.47 2041.08L1659.74 2045.15L1661.73 2045.01ZM1700.3 2070.89L1698.98 2069.4L1664.09 2100.62L1665.42 2102.11L1666.74 2103.59L1701.63 2072.38L1700.3 2070.89ZM1665.42 2102.11L1667.41 2101.96L1663.73 2044.86L1661.73 2045.01L1659.74 2045.15L1663.42 2102.25L1665.42 2102.11ZM1661.73 2045.01L1660.61 2046.67L1699.18 2072.55L1700.3 2070.89L1701.42 2069.22L1662.85 2043.34L1661.73 2045.01Z" fill="black" mask="url(#stroke29_0_1)"/>
+</g>
+<g id="Polygon 8">
+<path d="M1630.99 2171.99L1665.5 2140.35L1669.87 2197.4L1630.99 2171.99Z" fill="#3F3D3C"/>
+<mask id="stroke30_0_1" fill="white">
+<path d="M1630.99 2171.99L1665.5 2140.35L1669.87 2197.4L1630.99 2171.99Z"/>
+</mask>
+<path d="M1630.99 2171.99L1629.65 2170.51L1627.74 2172.26L1629.89 2173.66L1630.99 2171.99ZM1665.5 2140.35L1667.49 2140.18L1667.18 2136.11L1664.15 2138.88L1665.5 2140.35ZM1669.87 2197.4L1668.77 2199.08L1672.17 2201.3L1671.86 2197.23L1669.87 2197.4ZM1630.99 2171.99L1632.33 2173.46L1666.84 2141.82L1665.5 2140.35L1664.15 2138.88L1629.65 2170.51L1630.99 2171.99ZM1665.5 2140.35L1663.5 2140.52L1667.88 2197.57L1669.87 2197.4L1671.86 2197.23L1667.49 2140.18L1665.5 2140.35ZM1669.87 2197.4L1670.97 2195.72L1632.09 2170.31L1630.99 2171.99L1629.89 2173.66L1668.77 2199.08L1669.87 2197.4Z" fill="black" mask="url(#stroke30_0_1)"/>
+</g>
+<g id="Polygon 9">
+<path d="M1775.03 1819.25L1747.07 1861.08L1804.29 1860.66L1775.03 1819.25Z" fill="#FB7AFF"/>
+<mask id="stroke31_0_1" fill="white">
+<path d="M1775.03 1819.25L1747.07 1861.08L1804.29 1860.66L1775.03 1819.25Z"/>
+</mask>
+<path d="M1775.03 1819.25L1773.37 1818.12L1774.98 1815.71L1776.66 1818.1L1775.03 1819.25ZM1747.07 1861.08L1747.1 1863.08L1743.3 1863.11L1745.41 1859.96L1747.07 1861.08ZM1804.29 1860.66L1805.92 1859.51L1808.12 1862.63L1804.32 1862.66L1804.29 1860.66ZM1775.03 1819.25L1776.7 1820.37L1748.74 1862.2L1747.07 1861.08L1745.41 1859.96L1773.37 1818.12L1775.03 1819.25ZM1747.07 1861.08L1747.04 1859.08L1804.26 1858.66L1804.29 1860.66L1804.32 1862.66L1747.1 1863.08L1747.07 1861.08ZM1804.29 1860.66L1802.66 1861.8L1773.4 1820.39L1775.03 1819.25L1776.66 1818.1L1805.92 1859.51L1804.29 1860.66Z" fill="black" mask="url(#stroke31_0_1)"/>
+</g>
+<g id="Polygon 12">
+<path d="M1965.03 1823.25L1936.98 1859.41L1994.2 1858.99L1965.03 1823.25Z" fill="#5C64FF"/>
+<mask id="stroke32_0_1" fill="white">
+<path d="M1965.03 1823.25L1936.98 1859.41L1994.2 1858.99L1965.03 1823.25Z"/>
+</mask>
+<path d="M1965.03 1823.25L1963.45 1822.01L1964.98 1820.03L1966.58 1821.99L1965.03 1823.25ZM1936.98 1859.41L1937.02 1861.41L1932.87 1861.44L1935.4 1858.18L1936.98 1859.41ZM1994.2 1858.99L1995.75 1857.73L1998.38 1860.96L1994.23 1860.99L1994.2 1858.99ZM1965.03 1823.25L1966.62 1824.48L1938.57 1860.65L1936.98 1859.41L1935.4 1858.18L1963.45 1822.01L1965.03 1823.25ZM1936.98 1859.41L1936.95 1857.41L1994.17 1856.99L1994.2 1858.99L1994.23 1860.99L1937.02 1861.41L1936.98 1859.41ZM1994.2 1858.99L1992.65 1860.24L1963.49 1824.5L1965.03 1823.25L1966.58 1821.99L1995.75 1857.73L1994.2 1858.99Z" fill="black" mask="url(#stroke32_0_1)"/>
+</g>
+<g id="Polygon 14">
+<path d="M2640.03 1813.25L2611.98 1849.41L2669.2 1848.99L2640.03 1813.25Z" fill="#5C64FF"/>
+<mask id="stroke33_0_1" fill="white">
+<path d="M2640.03 1813.25L2611.98 1849.41L2669.2 1848.99L2640.03 1813.25Z"/>
+</mask>
+<path d="M2640.03 1813.25L2638.45 1812.01L2639.98 1810.03L2641.58 1811.99L2640.03 1813.25ZM2611.98 1849.41L2612.02 1851.41L2607.87 1851.44L2610.4 1848.18L2611.98 1849.41ZM2669.2 1848.99L2670.75 1847.73L2673.38 1850.96L2669.23 1850.99L2669.2 1848.99ZM2640.03 1813.25L2641.62 1814.48L2613.57 1850.65L2611.98 1849.41L2610.4 1848.18L2638.45 1812.01L2640.03 1813.25ZM2611.98 1849.41L2611.95 1847.41L2669.17 1846.99L2669.2 1848.99L2669.23 1850.99L2612.02 1851.41L2611.98 1849.41ZM2669.2 1848.99L2667.65 1850.24L2638.49 1814.5L2640.03 1813.25L2641.58 1811.99L2670.75 1847.73L2669.2 1848.99Z" fill="black" mask="url(#stroke33_0_1)"/>
+</g>
+<g id="Polygon 15">
+<path d="M2806.03 1813.25L2777.98 1849.41L2835.2 1848.99L2806.03 1813.25Z" fill="#FFB05C"/>
+<mask id="stroke34_0_1" fill="white">
+<path d="M2806.03 1813.25L2777.98 1849.41L2835.2 1848.99L2806.03 1813.25Z"/>
+</mask>
+<path d="M2806.03 1813.25L2804.45 1812.01L2805.98 1810.03L2807.58 1811.99L2806.03 1813.25ZM2777.98 1849.41L2778.02 1851.41L2773.87 1851.44L2776.4 1848.18L2777.98 1849.41ZM2835.2 1848.99L2836.75 1847.73L2839.38 1850.96L2835.23 1850.99L2835.2 1848.99ZM2806.03 1813.25L2807.62 1814.48L2779.57 1850.65L2777.98 1849.41L2776.4 1848.18L2804.45 1812.01L2806.03 1813.25ZM2777.98 1849.41L2777.95 1847.41L2835.17 1846.99L2835.2 1848.99L2835.23 1850.99L2778.02 1851.41L2777.98 1849.41ZM2835.2 1848.99L2833.65 1850.24L2804.49 1814.5L2806.03 1813.25L2807.58 1811.99L2836.75 1847.73L2835.2 1848.99Z" fill="black" mask="url(#stroke34_0_1)"/>
+</g>
+<g id="Polygon 16">
+<path d="M3469.03 1816.25L3440.98 1852.41L3498.2 1851.99L3469.03 1816.25Z" fill="#FFB05C"/>
+<mask id="stroke35_0_1" fill="white">
+<path d="M3469.03 1816.25L3440.98 1852.41L3498.2 1851.99L3469.03 1816.25Z"/>
+</mask>
+<path d="M3469.03 1816.25L3467.45 1815.01L3468.98 1813.03L3470.58 1814.99L3469.03 1816.25ZM3440.98 1852.41L3441.02 1854.41L3436.87 1854.44L3439.4 1851.18L3440.98 1852.41ZM3498.2 1851.99L3499.75 1850.73L3502.38 1853.96L3498.23 1853.99L3498.2 1851.99ZM3469.03 1816.25L3470.62 1817.48L3442.57 1853.65L3440.98 1852.41L3439.4 1851.18L3467.45 1815.01L3469.03 1816.25ZM3440.98 1852.41L3440.95 1850.41L3498.17 1849.99L3498.2 1851.99L3498.23 1853.99L3441.02 1854.41L3440.98 1852.41ZM3498.2 1851.99L3496.65 1853.24L3467.49 1817.5L3469.03 1816.25L3470.58 1814.99L3499.75 1850.73L3498.2 1851.99Z" fill="black" mask="url(#stroke35_0_1)"/>
+</g>
+<g id="Polygon 17">
+<path d="M3550.37 1908.76L3515.3 1879.35L3513.54 1936.54L3550.37 1908.76Z" fill="#3F3D3C"/>
+<mask id="stroke36_0_1" fill="white">
+<path d="M3550.37 1908.76L3515.3 1879.35L3513.54 1936.54L3550.37 1908.76Z"/>
+</mask>
+<path d="M3550.37 1908.76L3551.66 1907.22L3553.58 1908.83L3551.57 1910.35L3550.37 1908.76ZM3515.3 1879.35L3513.3 1879.3L3513.43 1875.16L3516.6 1877.81L3515.3 1879.35ZM3513.54 1936.54L3514.74 1938.13L3511.42 1940.64L3511.54 1936.49L3513.54 1936.54ZM3550.37 1908.76L3549.08 1910.29L3514.01 1880.88L3515.3 1879.35L3516.6 1877.81L3551.66 1907.22L3550.37 1908.76ZM3515.3 1879.35L3517.3 1879.39L3515.54 1936.58L3513.54 1936.54L3511.54 1936.49L3513.3 1879.3L3515.3 1879.35ZM3513.54 1936.54L3512.35 1934.95L3549.18 1907.16L3550.37 1908.76L3551.57 1910.35L3514.74 1938.13L3513.54 1936.54Z" fill="black" mask="url(#stroke36_0_1)"/>
+</g>
+<g id="Polygon 5">
+<path d="M538.8 1986.58L507.238 2021.16L497.819 1964.72L538.8 1986.58Z" fill="#3F3D3C"/>
+<mask id="stroke37_0_1" fill="white">
+<path d="M538.8 1986.58L507.238 2021.16L497.819 1964.72L538.8 1986.58Z"/>
+</mask>
+<path d="M538.8 1986.58L540.268 1987.93L542.011 1986.02L539.748 1984.81L538.8 1986.58ZM507.238 2021.16L505.268 2021.5L505.941 2025.53L508.707 2022.5L507.238 2021.16ZM497.819 1964.72L498.767 1962.95L495.176 1961.04L495.849 1965.07L497.819 1964.72ZM538.8 1986.58L537.331 1985.24L505.77 2019.81L507.238 2021.16L508.707 2022.5L540.268 1987.93L538.8 1986.58ZM507.238 2021.16L509.208 2020.81L499.789 1964.38L497.819 1964.72L495.849 1965.07L505.268 2021.5L507.238 2021.16ZM497.819 1964.72L496.87 1966.49L537.851 1988.35L538.8 1986.58L539.748 1984.81L498.767 1962.95L497.819 1964.72Z" fill="black" mask="url(#stroke37_0_1)"/>
+</g>
+<g id="Polygon 6">
+<path d="M474.83 2059.57L505.973 2024.62L516.072 2080.94L474.83 2059.57Z" fill="#3F3D3C"/>
+<mask id="stroke38_0_1" fill="white">
+<path d="M474.83 2059.57L505.973 2024.62L516.072 2080.94L474.83 2059.57Z"/>
+</mask>
+<path d="M474.83 2059.57L473.346 2058.24L471.626 2060.17L473.903 2061.35L474.83 2059.57ZM505.973 2024.62L507.939 2024.25L507.217 2020.23L504.488 2023.29L505.973 2024.62ZM516.072 2080.94L515.144 2082.72L518.759 2084.59L518.037 2080.57L516.072 2080.94ZM474.83 2059.57L476.315 2060.9L507.458 2025.95L505.973 2024.62L504.488 2023.29L473.346 2058.24L474.83 2059.57ZM505.973 2024.62L504.007 2024.99L514.106 2081.31L516.072 2080.94L518.037 2080.57L507.939 2024.25L505.973 2024.62ZM516.072 2080.94L516.999 2079.16L475.758 2057.79L474.83 2059.57L473.903 2061.35L515.144 2082.72L516.072 2080.94Z" fill="black" mask="url(#stroke38_0_1)"/>
+</g>
+</g>
+</svg>
